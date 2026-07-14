@@ -1,0 +1,110 @@
+[
+  {
+    "category":"ELSS",
+    "n_funds":40,
+    "n_recommended":2,
+    "avg_quality":51.0,
+    "avg_risk":34.0,
+    "is_core":true,
+    "selection_edge_pct":null
+  },
+  {
+    "category":"Flexi Cap Fund",
+    "n_funds":34,
+    "n_recommended":2,
+    "avg_quality":51.0,
+    "avg_risk":35.0,
+    "is_core":true,
+    "selection_edge_pct":null
+  },
+  {
+    "category":"Large Cap Fund",
+    "n_funds":29,
+    "n_recommended":2,
+    "avg_quality":52.0,
+    "avg_risk":26.0,
+    "is_core":true,
+    "selection_edge_pct":0.6
+  },
+  {
+    "category":"Mid Cap Fund",
+    "n_funds":28,
+    "n_recommended":2,
+    "avg_quality":52.0,
+    "avg_risk":51.0,
+    "is_core":true,
+    "selection_edge_pct":null
+  },
+  {
+    "category":"Small Cap Fund",
+    "n_funds":23,
+    "n_recommended":2,
+    "avg_quality":52.0,
+    "avg_risk":61.0,
+    "is_core":true,
+    "selection_edge_pct":3.4
+  },
+  {
+    "category":"Sectoral\/ Thematic",
+    "n_funds":125,
+    "n_recommended":0,
+    "avg_quality":50.0,
+    "avg_risk":43.0,
+    "is_core":false,
+    "selection_edge_pct":null
+  },
+  {
+    "category":"Focused Fund",
+    "n_funds":26,
+    "n_recommended":0,
+    "avg_quality":52.0,
+    "avg_risk":32.0,
+    "is_core":false,
+    "selection_edge_pct":null
+  },
+  {
+    "category":"Large & Mid Cap Fund",
+    "n_funds":26,
+    "n_recommended":0,
+    "avg_quality":52.0,
+    "avg_risk":39.0,
+    "is_core":false,
+    "selection_edge_pct":null
+  },
+  {
+    "category":"Value Fund",
+    "n_funds":20,
+    "n_recommended":0,
+    "avg_quality":52.0,
+    "avg_risk":35.0,
+    "is_core":false,
+    "selection_edge_pct":null
+  },
+  {
+    "category":"Multi Cap Fund",
+    "n_funds":19,
+    "n_recommended":0,
+    "avg_quality":53.0,
+    "avg_risk":42.0,
+    "is_core":false,
+    "selection_edge_pct":null
+  },
+  {
+    "category":"Dividend Yield Fund",
+    "n_funds":8,
+    "n_recommended":0,
+    "avg_quality":56.0,
+    "avg_risk":34.0,
+    "is_core":false,
+    "selection_edge_pct":null
+  },
+  {
+    "category":"Contra Fund",
+    "n_funds":3,
+    "n_recommended":0,
+    "avg_quality":67.0,
+    "avg_risk":32.0,
+    "is_core":false,
+    "selection_edge_pct":null
+  }
+]

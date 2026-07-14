@@ -1,0 +1,276 @@
+Rank,Fund,Category,Quality,Risk,RiskBand,Recommended,Expected Holding Period,Why
+1,JM Large Cap Fund,Large Cap Fund,100,0,Conservative,Yes,5+ years,[+] Supported by a management team | [+] Favourable AUM / capacity
+2,Aditya Birla Sun Life Midcap Fund,Mid Cap Fund,100,54,Balanced,Yes,3-5 years,[+] Stable risk profile | [+] Strong long-term consistency
+3,HDFC Mid Cap Fund,Mid Cap Fund,95,50,Balanced,Yes,3-5 years,[+] Stable risk profile | [+] Strong long-term consistency
+4,JM ELSS Tax Saver Fund,ELSS,100,42,Balanced,Yes,3-5 years,[+] Supported by a management team | [-] Relatively inexperienced manager
+5,Franklin India Small Cap Fund,Small Cap Fund,100,66,Aggressive,Yes,1-3 years,[+] Stable risk profile | [-] Fund size acting as a drag
+6,JM Flexicap Fund,Flexi Cap Fund,100,33,Balanced,Yes,3-5 years,[+] Supported by a management team | [+] Favourable AUM / capacity
+7,Aditya Birla Sun Life Small Cap Fund,Small Cap Fund,95,74,Aggressive,Yes,1-3 years,[+] Stable risk profile | [+] Strong long-term consistency
+8,Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund),ELSS,97,29,Conservative,Yes,5+ years,[+] Favourable AUM / capacity | [+] Supported by a management team
+9,HDFC Flexi Cap Fund,Flexi Cap Fund,96,53,Balanced,Yes,3-5 years,[+] Stable risk profile | [-] Expensive TER
+10,Union Largecap Fund,Large Cap Fund,96,35,Balanced,Yes,3-5 years,[+] Favourable AUM / capacity | [-] Elevated trailing volatility
+11,JM Value Fund,Value Fund,100,46,Balanced,No,3-5 years,[+] Stable risk profile | [+] Supported by a management team
+12,Sundaram Infrastructure Advantage Fund,Sectoral/ Thematic,100,63,Aggressive,No,1-3 years,[+] Stable risk profile | [+] Cost efficient structure
+13,JM Focused Fund,Focused Fund,100,47,Balanced,No,3-5 years,[+] Stable risk profile | [+] Supported by a management team
+14,Nippon India Vision Large & Mid Cap Fund,Large & Mid Cap Fund,100,43,Balanced,No,3-5 years,[+] Supported by a management team | [+] Favourable AUM / capacity
+15,LIC MF Infrastructure Fund,Sectoral/ Thematic,99,54,Balanced,No,3-5 years,[+] Stable risk profile | [+] Favourable AUM / capacity
+16,Groww Value Fund (formerly known as Indiabulls Value Fund),Value Fund,92,33,Balanced,No,3-5 years,[+] Favourable AUM / capacity | [+] Supported by a management team
+17,Aditya Birla Sun Life PSU Equity Fund,Sectoral/ Thematic,98,37,Balanced,No,3-5 years,[+] Stable risk profile | [+] Supported by a management team
+18,Baroda BNP Paribas Banking and Financial Services Fund,Sectoral/ Thematic,97,77,Aggressive,No,1-3 years,[+] Favourable AUM / capacity | [+] Strong long-term consistency
+19,SBI PSU Fund,Sectoral/ Thematic,95,41,Balanced,No,3-5 years,[+] Stable risk profile | [+] Strong long-term consistency
+20,UTI Transportation and Logistics Fund,Sectoral/ Thematic,94,75,Aggressive,No,1-3 years,[+] Stable risk profile | [+] Excellent downside protection
+21,UTI Infrastructure Fund,Sectoral/ Thematic,93,59,Balanced,No,3-5 years,[+] Stable risk profile | [+] Strong long-term consistency
+22,Aditya Birla Sun Life Value Fund,Value Fund,85,52,Balanced,No,3-5 years,[+] Stable risk profile | [+] Strong long-term consistency
+23,ICICI Prudential MidCap Fund,Mid Cap Fund,90,61,Aggressive,No,1-3 years,[+] Stable risk profile | [+] Strong long-term consistency
+24,quant Focused Fund,Focused Fund,94,33,Balanced,No,3-5 years,[+] Supported by a management team | [+] Favourable AUM / capacity
+25,Franklin India Large & Mid Cap Fund,Large & Mid Cap Fund,96,62,Aggressive,No,1-3 years,[+] Stable risk profile | [+] Strong long-term consistency
+26,SBI COMMA Fund,Sectoral/ Thematic,92,45,Balanced,No,3-5 years,[+] Stable risk profile | [+] Strong long-term consistency
+27,Invesco India Smallcap Fund,Small Cap Fund,89,52,Balanced,No,3-5 years,[+] Stable risk profile | [-] Expensive TER
+28,UTI Large & Mid Cap Fund,Large & Mid Cap Fund,92,53,Balanced,No,3-5 years,[+] Stable risk profile | [-] Expensive TER
+29,Nippon India Focused Fund,Focused Fund,88,62,Aggressive,No,1-3 years,[+] Stable risk profile | [-] Fund size acting as a drag
+30,quant Large & Mid Cap Fund,Large & Mid Cap Fund,88,22,Conservative,No,5+ years,[+] Supported by a management team | [+] Favourable AUM / capacity
+31,HDFC Housing Opportunities Fund,Sectoral/ Thematic,91,57,Balanced,No,3-5 years,[+] Stable risk profile | [-] Lagging past returns
+32,Invesco India Financial Services Fund,Sectoral/ Thematic,90,70,Aggressive,No,1-3 years,[+] Stable risk profile | [+] Strong long-term consistency
+33,ITI Multi Cap Fund,Multi Cap Fund,100,49,Balanced,No,3-5 years,[+] Stable risk profile | [-] Expensive TER
+34,Navi Large & Midcap Fund,Large & Mid Cap Fund,84,48,Balanced,No,3-5 years,[+] Stable risk profile | [+] Favourable AUM / capacity
+35,Franklin India Mid Cap Fund,Mid Cap Fund,86,49,Balanced,No,3-5 years,[+] Stable risk profile | [-] Fund size acting as a drag
+36,Kotak Midcap Fund,Mid Cap Fund,81,52,Balanced,No,3-5 years,[+] Stable risk profile | [-] Fund size acting as a drag
+37,Shriram ELSS Tax Saver Fund,ELSS,94,12,Conservative,No,5+ years,[+] Favourable AUM / capacity | [+] Supported by a management team
+38,UTI Banking and Financial Services Fund,Sectoral/ Thematic,89,100,Aggressive,No,1-3 years,[+] Excellent downside protection | [+] Strong long-term consistency
+39,DSP Focused Fund,Focused Fund,82,51,Balanced,No,3-5 years,[+] Stable risk profile | [+] Strong long-term consistency
+40,Motilal Oswal Midcap Fund,Mid Cap Fund,76,53,Balanced,No,3-5 years,[+] Stable risk profile | [-] Expensive TER
+41,Tata Banking And Financial Services Fund,Sectoral/ Thematic,87,66,Aggressive,No,1-3 years,[+] Stable risk profile | [+] Favourable AUM / capacity
+42,Aditya Birla Sun Life Banking and Financial Services Fund,Sectoral/ Thematic,86,98,Aggressive,No,1-3 years,[+] Excellent downside protection | [+] Strong long-term consistency
+43,DSP Small Cap Fund,Small Cap Fund,84,59,Balanced,No,3-5 years,[+] Stable risk profile | [-] Fund size acting as a drag
+44,Nippon India Growth Mid Cap Fund,Mid Cap Fund,71,51,Balanced,No,3-5 years,[+] Stable risk profile | [-] Fund size acting as a drag
+45,Nippon India Multi Cap Fund,Multi Cap Fund,86,66,Aggressive,No,1-3 years,[+] Stable risk profile | [+] Strong long-term consistency
+46,Franklin India ELSS Tax Saver Fund,ELSS,91,51,Balanced,No,3-5 years,[+] Stable risk profile | [-] Fund size acting as a drag
+47,CANARA ROBECO INFRASTRUCTURE FUND,Sectoral/ Thematic,85,44,Balanced,No,3-5 years,[+] Stable risk profile | [+] Favourable AUM / capacity
+48,Invesco India Multicap Fund,Multi Cap Fund,71,43,Balanced,No,3-5 years,[+] Stable risk profile | [+] Strong long-term consistency
+49,Sundaram Value Fund,Value Fund,77,47,Balanced,No,3-5 years,[+] Stable risk profile | [+] Strong long-term consistency
+50,Sundaram Small Cap Fund,Small Cap Fund,79,71,Aggressive,No,1-3 years,[+] Stable risk profile | [-] Expensive TER
+51,Quantum ELSS Tax Saver Fund,ELSS,88,42,Balanced,No,3-5 years,[+] Favourable AUM / capacity | [-] Elevated trailing volatility
+52,LIC MF Banking and Financial Services Fund,Sectoral/ Thematic,84,77,Aggressive,No,1-3 years,[+] Favourable AUM / capacity | [+] Strong long-term consistency
+53,Tata Small Cap Fund,Small Cap Fund,74,52,Balanced,No,3-5 years,[+] Stable risk profile | [-] Expensive TER
+54,Shriram Flexi Cap Fund,Flexi Cap Fund,91,22,Conservative,No,5+ years,[+] Favourable AUM / capacity | [-] Elevated trailing volatility
+55,Mahindra Manulife Consumption Fund,Sectoral/ Thematic,83,30,Conservative,No,5+ years,[+] Favourable AUM / capacity | [-] Elevated trailing volatility
+56,Sundaram Mid Cap Fund,Mid Cap Fund,67,54,Balanced,No,3-5 years,[+] Stable risk profile | [-] Fund size acting as a drag
+57,SBI INFRASTRUCTURE FUND,Sectoral/ Thematic,82,48,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Stable risk profile
+58,SBI CONSUMPTION OPPORTUNITIES FUND,Sectoral/ Thematic,80,44,Balanced,No,3-5 years,[+] Stable risk profile | [+] Strong long-term consistency
+59,Union Value Fund,Value Fund,69,40,Balanced,No,3-5 years,[+] Favourable AUM / capacity | [-] Inconsistent hit rate
+60,Kotak Small Cap Fund,Small Cap Fund,68,64,Aggressive,No,1-3 years,[+] Stable risk profile | [-] Fund size acting as a drag
+61,Franklin Build India Fund,Sectoral/ Thematic,79,62,Aggressive,No,1-3 years,[+] Stable risk profile | [-] Inconsistent hit rate
+62,Kotak Infrastructure & Economic Reform Fund,Sectoral/ Thematic,78,60,Balanced,No,3-5 years,[+] Stable risk profile | [-] Inconsistent hit rate
+63,Taurus Infrastructure Fund,Sectoral/ Thematic,77,34,Balanced,No,3-5 years,[+] Favourable AUM / capacity | [-] Inconsistent hit rate
+64,ITI ELSS Tax Saver Fund,ELSS,84,45,Balanced,No,3-5 years,[+] Favourable AUM / capacity | [-] Inconsistent hit rate
+65,HDFC Value Fund,Value Fund,62,48,Balanced,No,3-5 years,[+] Stable risk profile | [-] Fund size acting as a drag
+66,Kotak Contra Fund,Contra Fund,100,42,Balanced,No,3-5 years,[+] Strong long-term consistency | [+] Stable risk profile
+67,Edelweiss ELSS Tax Saver Fund,ELSS,81,37,Balanced,No,3-5 years,[+] Favourable AUM / capacity | [-] Elevated trailing volatility
+68,Tata Focused Fund,Focused Fund,76,40,Balanced,No,3-5 years,[+] Strong long-term consistency | [+] Stable risk profile
+69,Tata Mid Cap Fund,Mid Cap Fund,62,42,Balanced,No,3-5 years,[+] Strong long-term consistency | [+] Stable risk profile
+70,HSBC Large & Mid Cap Fund,Large & Mid Cap Fund,80,39,Balanced,No,3-5 years,[+] Strong long-term consistency | [+] Stable risk profile
+71,Sundaram Large and Midcap Fund,Large & Mid Cap Fund,76,50,Balanced,No,3-5 years,[+] Stable risk profile | [-] Expensive TER
+72,HSBC Flexi Cap Fund,Flexi Cap Fund,87,44,Balanced,No,3-5 years,[+] Strong long-term consistency | [-] Lagging past returns
+73,Quantum Value Fund,Value Fund,54,45,Balanced,No,3-5 years,[+] Strong long-term consistency | [-] Lagging past returns
+74,HSBC Tax Saver Equity Fund,ELSS,78,43,Balanced,No,3-5 years,[+] Favourable AUM / capacity | [+] Strong long-term consistency
+75,Nippon India ELSS Tax Saver Fund,ELSS,75,57,Balanced,No,3-5 years,[+] Stable risk profile | [-] Fund size acting as a drag
+76,Aditya Birla Sun Life International Equity Fund,Sectoral/ Thematic,76,0,Conservative,No,5+ years,[+] Favourable AUM / capacity | [+] Veteran manager with exceptional tenure
+77,Nippon India Power & Infra Fund,Sectoral/ Thematic,75,61,Aggressive,No,1-3 years,[+] Stable risk profile | [-] Inconsistent hit rate
+78,QUANTUM ESG BEST IN CLASS STRATEGY FUND,Sectoral/ Thematic,74,26,Conservative,No,5+ years,[+] Favourable AUM / capacity | [-] Elevated trailing volatility
+79,DSP Large Cap Fund,Large Cap Fund,92,48,Balanced,No,3-5 years,[+] Stable risk profile | [+] Strong long-term consistency
+80,Aditya Birla Sun Life Large & Mid Cap Fund,Large & Mid Cap Fund,72,53,Balanced,No,3-5 years,[+] Stable risk profile | [-] Fund size acting as a drag
+81,Navi ELSS Tax Saver Fund,ELSS,72,45,Balanced,No,3-5 years,[+] Favourable AUM / capacity | [-] Expensive TER
+82,Aditya Birla Sun Life MNC Fund,Sectoral/ Thematic,72,7,Conservative,No,5+ years,[+] Supported by a management team | [-] Fund size acting as a drag
+83,Franklin India Opportunities Fund,Sectoral/ Thematic,71,42,Balanced,No,3-5 years,[+] Stable risk profile | [+] Veteran manager with exceptional tenure
+84,BANK OF INDIA Large & Mid Cap Fund,Large & Mid Cap Fund,68,34,Balanced,No,3-5 years,[+] Favourable AUM / capacity | [+] Stable risk profile
+85,HDFC Small Cap Fund,Small Cap Fund,63,70,Aggressive,No,1-3 years,[+] Stable risk profile | [+] Strong long-term consistency
+86,HDFC Infrastructure Fund,Sectoral/ Thematic,70,91,Aggressive,No,1-3 years,[-] Inconsistent hit rate | [+] Cost efficient structure
+87,Invesco India PSU Equity Fund,Sectoral/ Thematic,69,27,Conservative,No,5+ years,[+] Strong long-term consistency | [+] Stable risk profile
+88,Motilal Oswal Focused Fund,Focused Fund,71,26,Conservative,No,5+ years,[+] Supported by a management team | [-] Elevated trailing volatility
+89,SBI Equity Minimum Variance Fund,Sectoral/ Thematic,68,18,Conservative,No,5+ years,[+] Favourable AUM / capacity | [-] Elevated trailing volatility
+90,ICICI Prudential ELSS Tax Saver Fund,ELSS,69,44,Balanced,No,3-5 years,[-] Fund size acting as a drag | [+] Strong long-term consistency
+91,Edelweiss Mid Cap Fund,Mid Cap Fund,57,49,Balanced,No,3-5 years,[+] Stable risk profile | [-] Inconsistent hit rate
+92,Franklin Asian Equity Fund,Sectoral/ Thematic,67,43,Balanced,No,3-5 years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+93,Taurus Flexi Cap Fund,Flexi Cap Fund,83,39,Balanced,No,3-5 years,[-] Elevated trailing volatility | [-] Solo management risk
+94,ICICI Prudential Multicap Fund,Multi Cap Fund,57,49,Balanced,No,3-5 years,[-] Fund size acting as a drag | [+] Stable risk profile
+95,Templeton India Value Fund,Value Fund,46,61,Aggressive,No,1-3 years,[+] Stable risk profile | [-] Inconsistent hit rate
+96,Aditya Birla Sun Life Flexi Cap Fund,Flexi Cap Fund,78,48,Balanced,No,3-5 years,[+] Strong long-term consistency | [+] Stable risk profile
+97,SBI Large Cap FUND,Large Cap Fund,88,40,Balanced,No,3-5 years,[+] Strong long-term consistency | [+] Stable risk profile
+98,Taurus Large Cap Fund,Large Cap Fund,83,34,Balanced,No,3-5 years,[+] Favourable AUM / capacity | [-] Elevated trailing volatility
+99,DSP Quant Fund,Sectoral/ Thematic,66,25,Conservative,No,5+ years,[+] Supported by a management team | [-] Elevated trailing volatility
+100,Groww Largecap Fund (formerly known as Indiabulls Blue Chip Fund),Large Cap Fund,79,37,Balanced,No,3-5 years,[-] Elevated trailing volatility | [+] Favourable AUM / capacity
+101,Invesco India Infrastructure Fund,Sectoral/ Thematic,64,42,Balanced,No,3-5 years,[+] Stable risk profile | [-] Inconsistent hit rate
+102,Mahindra Manulife Large Cap Fund,Large Cap Fund,75,30,Conservative,No,5+ years,[+] Favourable AUM / capacity | [-] Elevated trailing volatility
+103,Taurus ELSS Tax Saver Fund,ELSS,66,27,Conservative,No,5+ years,[+] Favourable AUM / capacity | [-] Elevated trailing volatility
+104,Taurus Mid Cap Fund,Mid Cap Fund,52,31,Balanced,No,3-5 years,[+] Favourable AUM / capacity | [-] Solo management risk
+105,Tata Large & MId Cap Fund,Large & Mid Cap Fund,64,40,Balanced,No,3-5 years,[+] Stable risk profile | [-] Fund size acting as a drag
+106,Edelweiss Small Cap Fund,Small Cap Fund,58,51,Balanced,No,3-5 years,[+] Stable risk profile | [-] Inconsistent hit rate
+107,Nippon India Japan Equity Fund,Sectoral/ Thematic,63,21,Conservative,No,5+ years,[-] Solo management risk | [+] Favourable AUM / capacity
+108,Nippon India Banking & Financial Services Fund,Sectoral/ Thematic,62,100,Aggressive,No,1-3 years,[-] Fund size acting as a drag | [+] Strong long-term consistency
+109,Axis Small Cap Fund,Small Cap Fund,53,47,Balanced,No,3-5 years,[-] Fund size acting as a drag | [+] Stable risk profile
+110,Mirae Asset Large & Midcap Fund,Large & Mid Cap Fund,60,38,Balanced,No,3-5 years,[+] Strong long-term consistency | [-] Fund size acting as a drag
+111,Kotak Pioneer Fund,Sectoral/ Thematic,61,40,Balanced,No,3-5 years,[+] Stable risk profile | [-] Expensive TER
+112,ITI Small Cap Fund,Small Cap Fund,47,69,Aggressive,No,1-3 years,[-] Expensive TER | [+] Strong long-term consistency
+113,Taurus Banking & Financial Services Fund,Sectoral/ Thematic,60,73,Aggressive,No,1-3 years,[+] Favourable AUM / capacity | [-] Elevated trailing volatility
+114,ICICI Prudential Infrastructure Fund,Sectoral/ Thematic,59,68,Aggressive,No,1-3 years,[-] Inconsistent hit rate | [+] Stable risk profile
+115,Axis ELSS Tax Saver Fund,ELSS,62,30,Conservative,No,5+ years,[+] Strong long-term consistency | [-] Severe historical drawdown
+116,HDFC Focused Fund,Focused Fund,65,49,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Stable risk profile
+117,Nippon India US Equity Opportunities Fund,Sectoral/ Thematic,57,22,Conservative,No,5+ years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+118,Navi Flexi Cap Fund,Flexi Cap Fund,74,39,Balanced,No,3-5 years,[+] Favourable AUM / capacity | [-] Elevated trailing volatility
+119,Union Small Cap Fund,Small Cap Fund,42,51,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Stable risk profile
+120,HDFC Large Cap Fund,Large Cap Fund,71,46,Balanced,No,3-5 years,[-] Fund size acting as a drag | [-] Lagging past returns
+121,Franklin India Large Cap Fund,Large Cap Fund,67,40,Balanced,No,3-5 years,[-] Fund size acting as a drag | [+] Strong long-term consistency
+122,LIC MF ELSS Tax Saver,ELSS,59,35,Balanced,No,3-5 years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+123,Invesco India Midcap Fund,Mid Cap Fund,48,34,Balanced,No,3-5 years,[-] Expensive TER | [+] Stable risk profile
+124,Union Midcap Fund,Mid Cap Fund,43,0,Conservative,No,5+ years,[-] Lagging past returns | [-] Inconsistent hit rate
+125,Motilal Oswal Flexi cap Fund,Flexi Cap Fund,70,37,Balanced,No,3-5 years,[-] Elevated trailing volatility | [+] Veteran manager with exceptional tenure
+126,Tata Infrastructure Fund,Sectoral/ Thematic,56,46,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Stable risk profile
+127,DSP Flexi Cap Fund,Flexi Cap Fund,65,37,Balanced,No,3-5 years,[-] Fund size acting as a drag | [+] Strong long-term consistency
+128,BANDHAN Infrastructure Fund,Sectoral/ Thematic,55,74,Aggressive,No,1-3 years,[-] Inconsistent hit rate | [+] Stable risk profile
+129,Tata Resources & Energy Fund,Sectoral/ Thematic,54,34,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Favourable AUM / capacity
+130,Edelweiss Large & Mid Cap Fund,Large & Mid Cap Fund,56,32,Balanced,No,3-5 years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+131,Mahindra Manulife Mid Cap Fund,Mid Cap Fund,38,31,Balanced,No,3-5 years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+132,Mirae Asset Focused Fund,Focused Fund,59,41,Balanced,No,3-5 years,[-] Fund size acting as a drag | [+] Strong long-term consistency
+133,Taurus Ethical Fund,Sectoral/ Thematic,53,7,Conservative,No,5+ years,[+] Favourable AUM / capacity | [-] Elevated trailing volatility
+134,Aditya Birla Sun Life Infrastructure Fund,Sectoral/ Thematic,52,73,Aggressive,No,1-3 years,[+] Supported by a management team | [-] Elevated trailing volatility
+135,BANK OF INDIA Small Cap Fund,Small Cap Fund,37,44,Balanced,No,3-5 years,[+] Stable risk profile | [-] Inconsistent hit rate
+136,UTI Dividend Yield Fund.,Dividend Yield Fund,100,18,Conservative,No,5+ years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+137,Tata Ethical Fund,Sectoral/ Thematic,51,7,Conservative,No,5+ years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+138,PGIM India ELSS Tax Saver Fund,ELSS,56,37,Balanced,No,3-5 years,[+] Supported by a management team | [-] Inconsistent hit rate
+139,Axis ESG Integration Strategy Fund,Sectoral/ Thematic,49,9,Conservative,No,5+ years,[-] Elevated trailing volatility | [-] Fund size acting as a drag
+140,SBI ESG Exclusionary Strategy Fund,Sectoral/ Thematic,48,38,Balanced,No,3-5 years,[-] Elevated trailing volatility | [-] Fund size acting as a drag
+141,Axis Focused Fund,Focused Fund,53,36,Balanced,No,3-5 years,[-] Fund size acting as a drag | [+] Strong long-term consistency
+142,UTI MNC Fund,Sectoral/ Thematic,47,0,Conservative,No,5+ years,[+] Veteran manager with exceptional tenure | [-] Severe historical drawdown
+143,ICICI Prudential India Opportunities Fund,Sectoral/ Thematic,46,57,Balanced,No,3-5 years,[+] Stable risk profile | [-] Fund size acting as a drag
+144,DSP Large & Mid Cap Fund,Large & Mid Cap Fund,52,45,Balanced,No,3-5 years,[-] Fund size acting as a drag | [+] Stable risk profile
+145,Nippon India Quant Fund,Sectoral/ Thematic,45,18,Conservative,No,5+ years,[+] Favourable AUM / capacity | [-] Elevated trailing volatility
+146,DSP Natural Resources and New Energy Fund,Sectoral/ Thematic,44,69,Aggressive,No,1-3 years,[-] Inconsistent hit rate | [+] Stable risk profile
+147,Aditya Birla Sun Life ELSS Tax Saver Fund,ELSS,53,22,Conservative,No,5+ years,[-] Fund size acting as a drag | [-] Elevated trailing volatility
+148,quant Infrastructure Fund,Sectoral/ Thematic,43,64,Aggressive,No,1-3 years,[-] Inconsistent hit rate | [+] Stable risk profile
+149,Kotak Flexicap Fund,Flexi Cap Fund,61,37,Balanced,No,3-5 years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+150,PGIM India Large Cap Fund,Large Cap Fund,62,31,Balanced,No,3-5 years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+151,Tata Value Fund,Value Fund,38,36,Balanced,No,3-5 years,[-] Fund size acting as a drag | [-] Elevated trailing volatility
+152,UTI Flexi Cap Fund,Flexi Cap Fund,57,37,Balanced,No,3-5 years,[+] Strong long-term consistency | [-] Fund size acting as a drag
+153,ICICI Prudential Smallcap Fund,Small Cap Fund,32,69,Aggressive,No,1-3 years,[+] Stable risk profile | [-] Expensive TER
+154,UTI India Consumer Fund,Sectoral/ Thematic,41,13,Conservative,No,5+ years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+155,Parag Parikh ELSS Tax Saver Fund,ELSS,50,17,Conservative,No,5+ years,[+] Supported by a management team | [-] Elevated trailing volatility
+156,ICICI Prudential Bharat Consumption Fund,Sectoral/ Thematic,40,9,Conservative,No,5+ years,[+] Supported by a management team | [-] Fund size acting as a drag
+157,Axis Large Cap Fund,Large Cap Fund,58,12,Conservative,No,5+ years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+158,Tata Large Cap Fund,Large Cap Fund,54,40,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Veteran manager with exceptional tenure
+159,Mirae Asset Large Cap Fund,Large Cap Fund,50,37,Balanced,No,3-5 years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+160,Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund,Sectoral/ Thematic,39,36,Balanced,No,3-5 years,[-] Elevated trailing volatility | [+] Favourable AUM / capacity
+161,ICICI Prudential Exports & Services Fund,Sectoral/ Thematic,38,35,Balanced,No,3-5 years,[+] Supported by a management team | [-] Inconsistent hit rate
+162,Invesco India Contra Fund,Contra Fund,67,37,Balanced,No,3-5 years,[-] Fund size acting as a drag | [+] Strong long-term consistency
+163,LIC MF Flexi Cap Fund,Flexi Cap Fund,52,21,Conservative,No,5+ years,[-] Elevated trailing volatility | [-] Severe historical drawdown
+164,DSP India T.I.G.E.R. Fund,Sectoral/ Thematic,37,63,Aggressive,No,1-3 years,[-] Inconsistent hit rate | [-] Relatively inexperienced manager
+165,SBI Small Cap Fund,Small Cap Fund,26,43,Balanced,No,3-5 years,[+] Strong long-term consistency | [-] Expensive TER
+166,ICICI Prudential Focused Equity Fund,Focused Fund,47,19,Conservative,No,5+ years,[+] Supported by a management team | [-] Inconsistent hit rate
+167,Kotak Focused Fund,Focused Fund,41,37,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+168,Sundaram Financial Services Opportunities Fund,Sectoral/ Thematic,36,78,Aggressive,No,1-3 years,[-] Expensive TER | [-] Elevated trailing volatility
+169,ICICI Prudential FMCG Fund,Sectoral/ Thematic,34,0,Conservative,No,5+ years,[-] Lagging past returns | [-] Severe historical drawdown
+170,Aditya Birla Sun Life Pharma and Healthcare Fund,Sectoral/ Thematic,33,12,Conservative,No,5+ years,[-] Elevated trailing volatility | [-] Severe historical drawdown
+171,BANK OF INDIA ELSS Tax Saver,ELSS,47,27,Conservative,No,5+ years,[-] Inconsistent hit rate | [+] Veteran manager with exceptional tenure
+172,UTI Mid Cap Fund,Mid Cap Fund,33,42,Balanced,No,3-5 years,[-] Fund size acting as a drag | [-] Inconsistent hit rate
+173,HDFC Large and Mid Cap Fund,Large & Mid Cap Fund,46,48,Balanced,No,3-5 years,[+] Stable risk profile | [-] Fund size acting as a drag
+174,ICICI Prudential Large & Mid Cap Fund,Large & Mid Cap Fund,46,49,Balanced,No,3-5 years,[+] Stable risk profile | [-] Inconsistent hit rate
+175,Invesco India ELSS Tax Saver Fund,ELSS,44,32,Balanced,No,3-5 years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+176,Invesco India Largecap Fund,Large Cap Fund,46,34,Balanced,No,3-5 years,[-] Elevated trailing volatility | [-] Expensive TER
+177,Axis Flexi Cap Fund,Flexi Cap Fund,48,12,Conservative,No,5+ years,[-] Fund size acting as a drag | [-] Elevated trailing volatility
+178,BANK OF INDIA Manufacturing & Infrastructure Fund,Sectoral/ Thematic,32,31,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Favourable AUM / capacity
+179,Invesco India Large & Mid Cap Fund,Large & Mid Cap Fund,40,31,Balanced,No,3-5 years,[-] Elevated trailing volatility | [-] Lagging past returns
+180,Franklin India Dividend Yield Fund,Dividend Yield Fund,75,30,Conservative,No,5+ years,[+] Supported by a management team | [-] Inconsistent hit rate
+181,Motilal Oswal Large and Midcap Fund,Large & Mid Cap Fund,36,43,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Supported by a management team
+182,HDFC ELSS Tax saver,ELSS,41,44,Balanced,No,3-5 years,[-] Fund size acting as a drag | [-] Elevated trailing volatility
+183,Bandhan Focused Fund,Focused Fund,35,31,Balanced,No,3-5 years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+184,Tata Flexi Cap Fund,Flexi Cap Fund,43,19,Conservative,No,5+ years,[-] Elevated trailing volatility | [-] Expensive TER
+185,quant Mid Cap Fund,Mid Cap Fund,29,37,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Supported by a management team
+186,LIC MF Large Cap Fund,Large Cap Fund,42,23,Conservative,No,5+ years,[-] Elevated trailing volatility | [+] Strong long-term consistency
+187,CANARA ROBECO LARGE AND MID CAP FUND,Large & Mid Cap Fund,32,32,Balanced,No,3-5 years,[-] Elevated trailing volatility | [-] Fund size acting as a drag
+188,UTI Healthcare Fund,Sectoral/ Thematic,31,14,Conservative,No,5+ years,[-] Elevated trailing volatility | [-] Severe historical drawdown
+189,Mahindra Manulife Multi Cap Fund,Multi Cap Fund,43,36,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Veteran manager with exceptional tenure
+190,HSBC Large Cap Fund,Large Cap Fund,38,34,Balanced,No,3-5 years,[-] Relatively inexperienced manager | [-] Elevated trailing volatility
+191,SBI LARGE & MIDCAP FUND,Large & Mid Cap Fund,28,49,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Fund size acting as a drag
+192,SBI MNC FUND,Sectoral/ Thematic,30,0,Conservative,No,5+ years,[-] Severe historical drawdown | [-] Lagging past returns
+193,Edelweiss Recently Listed IPO Fund,Sectoral/ Thematic,29,31,Balanced,No,3-5 years,[-] Elevated trailing volatility | [-] Severe historical drawdown
+194,SBI BANKING & FINANCIAL SERVICES FUND,Sectoral/ Thematic,28,76,Aggressive,No,1-3 years,[-] Elevated trailing volatility | [-] Expensive TER
+195,BANDHAN Large Cap Fund,Large Cap Fund,33,26,Conservative,No,5+ years,[-] Elevated trailing volatility | [-] Severe historical drawdown
+196,Tata India Pharma & Healthcare Fund,Sectoral/ Thematic,26,3,Conservative,No,5+ years,[-] Elevated trailing volatility | [-] Severe historical drawdown
+197,BANDHAN SMALL CAP FUND,Small Cap Fund,21,6,Conservative,No,5+ years,[-] Elevated trailing volatility | [-] Severe historical drawdown
+198,Nippon India Value Fund,Value Fund,31,46,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Veteran manager with exceptional tenure
+199,Axis Large & Mid Cap Fund,Large & Mid Cap Fund,24,26,Conservative,No,5+ years,[-] Fund size acting as a drag | [-] Elevated trailing volatility
+200,Aditya Birla Sun Life Dividend Yield Fund,Dividend Yield Fund,50,35,Balanced,No,3-5 years,[-] Elevated trailing volatility | [-] Lagging past returns
+201,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund),Large Cap Fund,29,36,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+202,BANDHAN Flexi Cap Fund,Flexi Cap Fund,39,33,Balanced,No,3-5 years,[-] Fund size acting as a drag | [-] Elevated trailing volatility
+203,quant ELSS Tax Saver Fund,ELSS,38,43,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Stable risk profile
+204,CANARA ROBECO FLEXICAP FUND,Flexi Cap Fund,35,20,Conservative,No,5+ years,[-] Fund size acting as a drag | [-] Elevated trailing volatility
+205,CANARA ROBECO SMALL CAP FUND,Small Cap Fund,16,50,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Stable risk profile
+206,Tata ELSS Fund,ELSS,34,38,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+207,PGIM India Midcap Fund,Mid Cap Fund,24,42,Balanced,No,3-5 years,[-] Fund size acting as a drag | [-] Inconsistent hit rate
+208,ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund,Sectoral/ Thematic,25,14,Conservative,No,5+ years,[-] Elevated trailing volatility | [-] Severe historical drawdown
+209,DSP Healthcare Fund,Sectoral/ Thematic,24,9,Conservative,No,5+ years,[+] Supported by a management team | [-] Inconsistent hit rate
+210,SBI HEALTHCARE OPPORTUNITIES FUND,Sectoral/ Thematic,23,6,Conservative,No,5+ years,[-] Severe historical drawdown | [-] Elevated trailing volatility
+211,Baroda BNP Paribas MULTI CAP FUND,Multi Cap Fund,29,29,Conservative,No,5+ years,[-] Elevated trailing volatility | [-] Relatively inexperienced manager
+212,UTI Value Fund,Value Fund,23,39,Balanced,No,3-5 years,[-] Fund size acting as a drag | [-] Elevated trailing volatility
+213,BANDHAN ELSS Tax Saver Fund,ELSS,31,60,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Stable risk profile
+214,quant Multi Cap Fund,Multi Cap Fund,14,41,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Stable risk profile
+215,Axis Midcap Fund,Mid Cap Fund,19,18,Conservative,No,5+ years,[-] Fund size acting as a drag | [-] Elevated trailing volatility
+216,LIC MF Large & Mid Cap Fund,Large & Mid Cap Fund,20,33,Balanced,No,3-5 years,[-] Elevated trailing volatility | [-] Expensive TER
+217,Sundaram Services Fund,Sectoral/ Thematic,22,47,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Stable risk profile
+218,Union Large & Midcap Fund,Large & Mid Cap Fund,16,36,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Veteran manager with exceptional tenure
+219,Nippon India Consumption Fund,Sectoral/ Thematic,21,24,Conservative,No,5+ years,[-] Elevated trailing volatility | [+] Favourable AUM / capacity
+220,ICICI Prudential Manufacturing Fund,Sectoral/ Thematic,20,46,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Stable risk profile
+221,ICICI Prudential Dividend Yield Equity Fund,Dividend Yield Fund,25,35,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+222,Mahindra Manulife ELSS Tax Saver Fund,ELSS,28,33,Balanced,No,3-5 years,[-] Elevated trailing volatility | [-] Inconsistent hit rate
+223,Mahindra Manulife Large & Mid Cap Fund,Large & Mid Cap Fund,12,28,Conservative,No,5+ years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+224,Edelweiss Flexi Cap Fund,Flexi Cap Fund,30,36,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+225,Kotak Large Cap Fund,Large Cap Fund,25,33,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+226,quant Flexi Cap Fund,Flexi Cap Fund,26,32,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Supported by a management team
+227,Mirae Asset Great Consumer Fund,Sectoral/ Thematic,18,28,Conservative,No,5+ years,[-] Elevated trailing volatility | [-] Severe historical drawdown
+228,Kotak ELSS Tax Saver Fund,ELSS,25,36,Balanced,No,3-5 years,[-] Relatively inexperienced manager | [-] Elevated trailing volatility
+229,Aditya Birla Sun Life Focused Fund,Focused Fund,29,37,Balanced,No,3-5 years,[-] Fund size acting as a drag | [-] Relatively inexperienced manager
+230,CANARA ROBECO CONSUMPTION FUND,Sectoral/ Thematic,17,18,Conservative,No,5+ years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+231,DSP Midcap Fund,Mid Cap Fund,14,36,Balanced,No,3-5 years,[-] Fund size acting as a drag | [-] Relatively inexperienced manager
+232,UTI ELSS Tax Saver Fund,ELSS,22,36,Balanced,No,3-5 years,[-] Elevated trailing volatility | [-] Severe historical drawdown
+233,SBI Flexicap Fund,Flexi Cap Fund,22,38,Balanced,No,3-5 years,[-] Fund size acting as a drag | [-] Expensive TER
+234,Aditya Birla Sun Life Consumption Fund,Sectoral/ Thematic,16,31,Balanced,No,3-5 years,[-] Relatively inexperienced manager | [-] Elevated trailing volatility
+235,Aditya Birla Sun Life Manufacturing Equity Fund,Sectoral/ Thematic,15,16,Conservative,No,5+ years,[-] Relatively inexperienced manager | [-] Elevated trailing volatility
+236,Union ELSS Tax Saver Fund,ELSS,19,31,Balanced,No,3-5 years,[-] Elevated trailing volatility | [-] Inconsistent hit rate
+237,ICICI Prudential MNC Fund,Sectoral/ Thematic,14,16,Conservative,No,5+ years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+238,UTI Large Cap Fund,Large Cap Fund,21,31,Balanced,No,3-5 years,[-] Elevated trailing volatility | [-] Fund size acting as a drag
+239,Mirae Asset Healthcare Fund,Sectoral/ Thematic,13,14,Conservative,No,5+ years,[-] Elevated trailing volatility | [-] Severe historical drawdown
+240,Franklin India Flexi Cap Fund,Flexi Cap Fund,17,46,Balanced,No,3-5 years,[-] Fund size acting as a drag | [-] Relatively inexperienced manager
+241,ICICI Prudential US Bluechip Equity Fund,Sectoral/ Thematic,11,4,Conservative,No,5+ years,[-] Elevated trailing volatility | [-] Relatively inexperienced manager
+242,Union Flexi Cap Fund,Flexi Cap Fund,13,31,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+243,Motilal Oswal ELSS Tax Saver Fund,ELSS,16,44,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Fund size acting as a drag
+244,CANARA ROBECO ELSS TAX SAVER,ELSS,12,22,Conservative,No,5+ years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+245,Nippon India Pharma Fund,Sectoral/ Thematic,10,13,Conservative,No,5+ years,[-] Relatively inexperienced manager | [-] Elevated trailing volatility
+246,ICICI Prudential Banking and Financial Services Fund,Sectoral/ Thematic,9,97,Aggressive,No,1-3 years,[-] Fund size acting as a drag | [-] Expensive TER
+247,Bandhan Large & Mid Cap Fund,Large & Mid Cap Fund,8,49,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Relatively inexperienced manager
+248,SBI MIDCAP FUND,Mid Cap Fund,10,55,Balanced,No,3-5 years,[-] Relatively inexperienced manager | [+] Stable risk profile
+249,ICICI Prudential Value Fund (erstwhile Value Discovery Fund),Value Fund,15,28,Conservative,No,5+ years,[-] Fund size acting as a drag | [-] Inconsistent hit rate
+250,SBI TECHNOLOGY OPPORTUNITIES FUND,Sectoral/ Thematic,8,26,Conservative,No,5+ years,[-] Inconsistent hit rate | [-] Expensive TER
+251,Edelweiss Large Cap Fund,Large Cap Fund,17,33,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+252,DSP ELSS Tax Saver Fund,ELSS,9,42,Balanced,No,3-5 years,[-] Relatively inexperienced manager | [-] Fund size acting as a drag
+253,Tata India Consumer Fund,Sectoral/ Thematic,7,7,Conservative,No,5+ years,[-] Inconsistent hit rate | [-] Expensive TER
+254,SBI ELSS Tax Saver FUND,ELSS,6,38,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Fund size acting as a drag
+255,360 ONE Focused Fund,Focused Fund,24,39,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Severe historical drawdown
+256,Tata Digital India Fund,Sectoral/ Thematic,6,42,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Fund size acting as a drag
+257,CANARA ROBECO LARGE CAP FUND,Large Cap Fund,12,18,Conservative,No,5+ years,[-] Fund size acting as a drag | [-] Inconsistent hit rate
+258,Mirae Asset Midcap Fund,Mid Cap Fund,5,44,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Fund size acting as a drag
+259,ICICI Prudential Technology Fund,Sectoral/ Thematic,5,48,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Fund size acting as a drag
+260,Union Focused Fund,Focused Fund,18,27,Conservative,No,5+ years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+261,PGIM India Flexi Cap Fund,Flexi Cap Fund,9,38,Balanced,No,3-5 years,[-] Inconsistent hit rate | [+] Supported by a management team
+262,Franklin India Focused Equity Fund,Focused Fund,12,52,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Fund size acting as a drag
+263,Nippon India Large Cap Fund,Large Cap Fund,8,54,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Relatively inexperienced manager
+264,ICICI Prudential Commodities Fund,Sectoral/ Thematic,3,79,Aggressive,No,1-3 years,[-] Elevated trailing volatility | [-] Inconsistent hit rate
+265,SBI CONTRA FUND,Contra Fund,33,42,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Fund size acting as a drag
+266,quant Small Cap Fund,Small Cap Fund,11,73,Aggressive,No,1-3 years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+267,Nippon India Small Cap Fund,Small Cap Fund,5,66,Aggressive,No,1-3 years,[-] Inconsistent hit rate | [-] Expensive TER
+268,Mirae Asset ELSS Tax Saver Fund,ELSS,3,40,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Relatively inexperienced manager
+269,Kotak Large & Midcap Fund,Large & Mid Cap Fund,4,36,Balanced,No,3-5 years,[-] Relatively inexperienced manager | [-] Elevated trailing volatility
+270,Bandhan Value Fund,Value Fund,8,81,Aggressive,No,1-3 years,[-] Inconsistent hit rate | [-] Elevated trailing volatility
+271,Franklin India Technology Fund,Sectoral/ Thematic,2,31,Balanced,No,3-5 years,[-] Relatively inexperienced manager | [-] Inconsistent hit rate
+272,Aditya Birla Sun Life Digital India Fund,Sectoral/ Thematic,1,41,Balanced,No,3-5 years,[-] Inconsistent hit rate | [-] Relatively inexperienced manager
+273,Aditya Birla Sun Life Large Cap Fund,Large Cap Fund,4,40,Balanced,No,3-5 years,[-] Relatively inexperienced manager | [-] Inconsistent hit rate
+274,SBI FOCUSED FUND,Focused Fund,6,27,Conservative,No,5+ years,[-] Relatively inexperienced manager | [-] Inconsistent hit rate
+275,Parag Parikh Flexi Cap Fund,Flexi Cap Fund,4,21,Conservative,No,5+ years,[-] Relatively inexperienced manager | [-] Fund size acting as a drag

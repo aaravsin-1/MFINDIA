@@ -1,0 +1,29 @@
+# RESULTS_PROJECT — Python dependencies for the ML fund-selection analysis.
+# Pinned to the versions this was built/verified against (Python 3.12).
+#
+#   python -m venv .venv && . .venv/Scripts/activate   # (Windows: .venv\Scripts\activate)
+#   pip install -r requirements.txt
+#
+# NOTE: this is the ANALYSIS environment only. The scraper/parser tooling in
+# data_pipeline/ (Playwright, openpyxl, etc.) has its own separate dependencies and
+# is NOT needed to reproduce the results — the analysis runs off data/ml_dataset.csv.
+
+# ── Core: model, validation, back-tests ──
+pandas==3.0.3
+numpy==2.4.6
+scipy==1.18.0
+lightgbm==4.6.0
+scikit-learn==1.9.0
+shap==0.52.0
+joblib==1.5.3
+
+# ── Database access (only needed for the live DB scripts; offline analysis does not need these) ──
+SQLAlchemy==2.0.51
+psycopg2-binary==2.9.12
+python-dotenv==1.2.2
+
+# ── Figures, deck & reporting ──
+matplotlib==3.11.0
+python-pptx==1.0.2
+graphviz==0.21          # also needs the Graphviz system binary `dot` on PATH (for the decision-tree figure)
+Pillow==12.2.0

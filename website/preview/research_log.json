@@ -1,0 +1,98 @@
+[
+  {
+    "id":1,
+    "code":"F1",
+    "verdict":"dead",
+    "title":"Single factors don't predict fund returns",
+    "finding":"Twelve single-signal strategies (momentum, TER, flows, Sharpe, category rotation) all failed realistic out-of-sample testing.",
+    "reference":"Carhart (1997)"
+  },
+  {
+    "id":2,
+    "code":"F2",
+    "verdict":"dead",
+    "title":"Buying past winners underperforms",
+    "finding":"Top-10 by trailing return lost to the equal-weight universe \u2014 mean reversion dominates.",
+    "reference":"\u2014"
+  },
+  {
+    "id":3,
+    "code":"F3",
+    "verdict":"artifact",
+    "title":"The naive ML 'edge' is mostly a style tilt",
+    "finding":"A universal top-10 ML portfolio beat equal-weight by +1.6%\/yr but FAILED its negative control (scrambled-label models won ~29\/40 seeds; p=0.125). It was a small-cap\/momentum tilt, not skill.",
+    "reference":"Harvey, Liu & Zhu (2016)"
+  },
+  {
+    "id":4,
+    "code":"F4",
+    "verdict":"survived",
+    "title":"Genuine within-category ranking skill exists",
+    "finding":"Out-of-sample rank IC between predicted and realised forward alpha = +0.096 (p<0.001) pooled, +0.09 to +0.18 within category \u2014 exploitable in equity selection.",
+    "reference":"Gu, Kelly & Xiu (2020)"
+  },
+  {
+    "id":5,
+    "code":"F5",
+    "verdict":"survived",
+    "title":"Category-neutral construction converts skill into a robust edge",
+    "finding":"Top-2 per core category vs a category-matched benchmark yields +2.37%\/yr, positive in 7\/7 cohorts, PASSES the negative control (p=0.000), Newey-West t=3.30 (p=0.001).",
+    "reference":"\u2014"
+  },
+  {
+    "id":6,
+    "code":"F6",
+    "verdict":"survived",
+    "title":"Skill lives where funds differ most",
+    "finding":"Per-category selection edge: small-cap +3.4%, large-cap only +0.6%. Large-caps hug the index; small-cap dispersion leaves room for skill.",
+    "reference":"SPIVA India; Cremers & Petajisto (2009)"
+  },
+  {
+    "id":7,
+    "code":"F7",
+    "verdict":"survived",
+    "title":"Fund size (AUM\/capacity) is the most robust feature",
+    "finding":"Removing AUM causes the largest performance drop across ablations; size proxies capacity constraints, biting small-caps hardest.",
+    "reference":"Chen, Hong, Huang & Kubik (2004); Berk & Green (2004)"
+  },
+  {
+    "id":8,
+    "code":"F8",
+    "verdict":"dead",
+    "title":"'Dumb-money' flows add no incremental value",
+    "finding":"Trailing organic flow has a real negative IC (-0.063, p=0.007) but points the same way as, and weaker than, the AUM feature already in the model \u2014 no portfolio improvement.",
+    "reference":"Frazzini & Lamont (2008)"
+  },
+  {
+    "id":9,
+    "code":"F9",
+    "verdict":"survived",
+    "title":"The alpha is front-loaded",
+    "finding":"Gross edge is largest at a 1-year hold (+3.70%\/yr), decaying to +2.47% by 3 years; all three horizons pass the negative control (p=0.000).",
+    "reference":"\u2014"
+  },
+  {
+    "id":10,
+    "code":"F10",
+    "verdict":"survived",
+    "title":"The edge survives tax if held >12 months",
+    "finding":"After 12.5% LTCG the net edge is ~+2.6% at a 1\u20132 year hold. A top-4 buffer cuts turnover ~46%\u219233%. Holding <12 months triggers 20% STCG + exit loads and erases the edge.",
+    "reference":"\u2014"
+  },
+  {
+    "id":11,
+    "code":"F11",
+    "verdict":"dead",
+    "title":"The raw-alpha target is already optimal",
+    "finding":"Risk-adjusted \/ downside training targets (Sharpe, Calmar, rank) pass the null but don't improve information ratio or drawdown.",
+    "reference":"\u2014"
+  },
+  {
+    "id":12,
+    "code":"F12",
+    "verdict":"survived",
+    "title":"Data quality can silently bias fund research",
+    "finding":"A single corrupted NAV (+4,367% '3-yr return') inflated a category benchmark to +273% and poisoned a whole cohort. Fixed with an outlier filter + trimmed benchmark.",
+    "reference":"Elton, Gruber & Blake (1996)"
+  }
+]

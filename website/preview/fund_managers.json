@@ -1,0 +1,5308 @@
+[
+  {
+    "scheme_id":5136,
+    "manager_name":"Dhaval Joshi",
+    "start_date":"2022-11-21T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":5136,
+    "manager_name":"Abhinav Khandelwal",
+    "start_date":"2024-10-31T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":5185,
+    "manager_name":"Kunal Sangoi",
+    "start_date":"2022-09-22T00:00:00.000",
+    "tenure_years":3.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4768,
+    "manager_name":"Dhaval Joshi",
+    "start_date":"2022-11-21T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4372,
+    "manager_name":"Dhaval Shah",
+    "start_date":"2024-10-31T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4546,
+    "manager_name":"Vishal Gajwani",
+    "start_date":"2024-10-31T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4355,
+    "manager_name":"Pavas Pethia",
+    "start_date":"2026-05-13T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4437,
+    "manager_name":"Dhaval Joshi",
+    "start_date":"2022-11-21T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4437,
+    "manager_name":"Harish Krishnan",
+    "start_date":"2023-11-03T00:00:00.000",
+    "tenure_years":2.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4602,
+    "manager_name":"Harish Krishnan",
+    "start_date":"2026-01-08T00:00:00.000",
+    "tenure_years":0.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4762,
+    "manager_name":"Chanchal Khandelwal",
+    "start_date":"2015-08-26T00:00:00.000",
+    "tenure_years":10.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4767,
+    "manager_name":"Jonas Bhutta",
+    "start_date":"2022-09-22T00:00:00.000",
+    "tenure_years":3.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4669,
+    "manager_name":"Vishal Gajwani",
+    "start_date":"2024-10-31T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4771,
+    "manager_name":"Chanchal Khandelwal",
+    "start_date":"2021-12-28T00:00:00.000",
+    "tenure_years":4.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4763,
+    "manager_name":"Kunal Sangoi",
+    "start_date":"2014-01-16T00:00:00.000",
+    "tenure_years":12.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4501,
+    "manager_name":"Kunal Sangoi",
+    "start_date":"2021-05-07T00:00:00.000",
+    "tenure_years":5.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4758,
+    "manager_name":"Dhaval Gala",
+    "start_date":"2015-08-26T00:00:00.000",
+    "tenure_years":10.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4770,
+    "manager_name":"Dhaval Joshi",
+    "start_date":"2026-05-13T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4776,
+    "manager_name":"Dhaval Gala",
+    "start_date":"2022-09-22T00:00:00.000",
+    "tenure_years":3.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4779,
+    "manager_name":"Dhaval Gala",
+    "start_date":"2024-10-31T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4765,
+    "manager_name":"Jonas Bhutta",
+    "start_date":"2026-05-13T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4716,
+    "manager_name":"Harshil Suvarnkar",
+    "start_date":"2021-05-08T00:00:00.000",
+    "tenure_years":5.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4716,
+    "manager_name":"Abhinav Khandelwal",
+    "start_date":"2024-10-31T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4759,
+    "manager_name":"Harish Krishnan",
+    "start_date":"2023-11-03T00:00:00.000",
+    "tenure_years":2.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4759,
+    "manager_name":"Pavas Pethia",
+    "start_date":"2026-05-13T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4603,
+    "manager_name":"Shreyash Devalkar",
+    "start_date":"2016-11-23T00:00:00.000",
+    "tenure_years":9.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4603,
+    "manager_name":"Krishnaa N",
+    "start_date":"2024-03-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4603,
+    "manager_name":"Jayesh Sundar",
+    "start_date":"2024-11-04T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4373,
+    "manager_name":"Ashish Naik",
+    "start_date":"2023-08-03T00:00:00.000",
+    "tenure_years":2.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4373,
+    "manager_name":"Shreyash Devalkar",
+    "start_date":"2023-08-04T00:00:00.000",
+    "tenure_years":2.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4671,
+    "manager_name":"Shreyash Devalkar",
+    "start_date":"2016-11-23T00:00:00.000",
+    "tenure_years":9.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4671,
+    "manager_name":"Nitin Arora",
+    "start_date":"2023-08-03T00:00:00.000",
+    "tenure_years":2.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4671,
+    "manager_name":"Krishnaa N",
+    "start_date":"2024-03-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4502,
+    "manager_name":"Sachin Relekar",
+    "start_date":"2024-02-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4502,
+    "manager_name":"Krishnaa N",
+    "start_date":"2024-03-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":5137,
+    "manager_name":"Mayank Hyanki",
+    "start_date":"2023-08-03T00:00:00.000",
+    "tenure_years":2.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":5137,
+    "manager_name":"Krishnaa N",
+    "start_date":"2024-03-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":5137,
+    "manager_name":"Tejas Sheth",
+    "start_date":"2024-05-13T00:00:00.000",
+    "tenure_years":2.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4438,
+    "manager_name":"Sachin Relekar",
+    "start_date":"2024-02-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4438,
+    "manager_name":"Krishnaa N",
+    "start_date":"2024-03-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4547,
+    "manager_name":"Hitesh Das",
+    "start_date":"2023-08-03T00:00:00.000",
+    "tenure_years":2.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4547,
+    "manager_name":"Shreyash Devalkar",
+    "start_date":"2023-08-04T00:00:00.000",
+    "tenure_years":2.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4547,
+    "manager_name":"Krishnaa N",
+    "start_date":"2024-03-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4783,
+    "manager_name":"Krishnaa N",
+    "start_date":"2024-03-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4783,
+    "manager_name":"Vishal Agarwal",
+    "start_date":"2024-09-16T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4785,
+    "manager_name":"Ashish Naik",
+    "start_date":"2020-12-24T00:00:00.000",
+    "tenure_years":5.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4785,
+    "manager_name":"Krishnaa N",
+    "start_date":"2024-03-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4787,
+    "manager_name":"Krishnaa N",
+    "start_date":"2024-03-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4787,
+    "manager_name":"Nandik Mallik",
+    "start_date":"2026-03-06T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":5186,
+    "manager_name":"Nitin Arora",
+    "start_date":"2023-05-26T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":5186,
+    "manager_name":"Krishnaa N",
+    "start_date":"2024-03-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4717,
+    "manager_name":"Shreyash Devalkar",
+    "start_date":"2023-03-01T00:00:00.000",
+    "tenure_years":3.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4717,
+    "manager_name":"Hitesh Das",
+    "start_date":"2023-05-26T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4717,
+    "manager_name":"Nitin Arora",
+    "start_date":"2023-05-26T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4781,
+    "manager_name":"Ashish Naik",
+    "start_date":"2023-02-22T00:00:00.000",
+    "tenure_years":3.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2032,
+    "manager_name":"Ritika Behera",
+    "start_date":"2023-10-07T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2032,
+    "manager_name":"Gaurav Satra",
+    "start_date":"2024-06-07T00:00:00.000",
+    "tenure_years":2.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2032,
+    "manager_name":"Manish Gunwani",
+    "start_date":"2024-12-02T00:00:00.000",
+    "tenure_years":1.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2032,
+    "manager_name":"Prateek Poddar",
+    "start_date":"2024-12-02T00:00:00.000",
+    "tenure_years":1.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2259,
+    "manager_name":"Daylynn Pinto",
+    "start_date":"2016-10-20T00:00:00.000",
+    "tenure_years":9.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2259,
+    "manager_name":"Ritika Behera",
+    "start_date":"2023-10-07T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2259,
+    "manager_name":"Gaurav Satra",
+    "start_date":"2024-06-07T00:00:00.000",
+    "tenure_years":2.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":1930,
+    "manager_name":"Daylynn Pinto",
+    "start_date":"2016-10-20T00:00:00.000",
+    "tenure_years":9.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":1930,
+    "manager_name":"Ritika Behera",
+    "start_date":"2023-10-07T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":1930,
+    "manager_name":"Gaurav Satra",
+    "start_date":"2024-06-10T00:00:00.000",
+    "tenure_years":2.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2107,
+    "manager_name":"Ritika Behera",
+    "start_date":"2023-10-07T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2107,
+    "manager_name":"Vishal Biraia",
+    "start_date":"2024-01-24T00:00:00.000",
+    "tenure_years":2.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":2107,
+    "manager_name":"Gaurav Satra",
+    "start_date":"2024-06-07T00:00:00.000",
+    "tenure_years":2.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2003,
+    "manager_name":"Manish Gunwani",
+    "start_date":"2023-01-28T00:00:00.000",
+    "tenure_years":3.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2003,
+    "manager_name":"Rahul Agarwal",
+    "start_date":"2023-08-28T00:00:00.000",
+    "tenure_years":2.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":2003,
+    "manager_name":"Ritika Behera",
+    "start_date":"2023-10-07T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2003,
+    "manager_name":"Gaurav Satra",
+    "start_date":"2024-06-07T00:00:00.000",
+    "tenure_years":2.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":1985,
+    "manager_name":"Ritika Behera",
+    "start_date":"2023-10-07T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":1985,
+    "manager_name":"Gaurav Satra",
+    "start_date":"2024-06-07T00:00:00.000",
+    "tenure_years":2.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":1985,
+    "manager_name":"Rahul Agarwal",
+    "start_date":"2024-12-02T00:00:00.000",
+    "tenure_years":1.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":1985,
+    "manager_name":"Manish Gunwani",
+    "start_date":"2024-12-02T00:00:00.000",
+    "tenure_years":1.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":1985,
+    "manager_name":"Kirthi Jain",
+    "start_date":"2024-12-02T00:00:00.000",
+    "tenure_years":1.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":1954,
+    "manager_name":"Ritika Behera",
+    "start_date":"2023-10-07T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":1954,
+    "manager_name":"Viraj Kulkarni",
+    "start_date":"2024-01-24T00:00:00.000",
+    "tenure_years":2.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":1954,
+    "manager_name":"Manish Gunwani",
+    "start_date":"2024-01-24T00:00:00.000",
+    "tenure_years":2.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":1954,
+    "manager_name":"Gaurav Satra",
+    "start_date":"2024-06-07T00:00:00.000",
+    "tenure_years":2.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2236,
+    "manager_name":"Manish Gunwani",
+    "start_date":"2023-01-28T00:00:00.000",
+    "tenure_years":3.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2236,
+    "manager_name":"Kirthi Jain",
+    "start_date":"2023-06-05T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2236,
+    "manager_name":"Ritika Behera",
+    "start_date":"2023-10-07T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2236,
+    "manager_name":"Gaurav Satra",
+    "start_date":"2024-06-07T00:00:00.000",
+    "tenure_years":2.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2080,
+    "manager_name":"Daylynn Pinto",
+    "start_date":"2021-12-02T00:00:00.000",
+    "tenure_years":4.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2080,
+    "manager_name":"Harshal Joshi",
+    "start_date":"2021-12-02T00:00:00.000",
+    "tenure_years":4.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2080,
+    "manager_name":"Ritika Behera",
+    "start_date":"2023-10-07T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2080,
+    "manager_name":"Gaurav Satra",
+    "start_date":"2024-06-07T00:00:00.000",
+    "tenure_years":2.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2061,
+    "manager_name":"Harshal Joshi",
+    "start_date":"2022-08-18T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":2061,
+    "manager_name":"Ritu Modi",
+    "start_date":"2022-11-16T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2061,
+    "manager_name":"Ritika Behera",
+    "start_date":"2023-10-07T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2061,
+    "manager_name":"Gaurav Satra",
+    "start_date":"2024-06-07T00:00:00.000",
+    "tenure_years":2.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2110,
+    "manager_name":"Daylynn Pinto",
+    "start_date":"2022-10-25T00:00:00.000",
+    "tenure_years":3.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2110,
+    "manager_name":"Harshal Joshi",
+    "start_date":"2022-10-25T00:00:00.000",
+    "tenure_years":3.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2110,
+    "manager_name":"Ritika Behera",
+    "start_date":"2023-10-07T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2110,
+    "manager_name":"Gaurav Satra",
+    "start_date":"2024-06-07T00:00:00.000",
+    "tenure_years":2.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2115,
+    "manager_name":"Sanjay Chawla",
+    "start_date":"2025-11-29T00:00:00.000",
+    "tenure_years":0.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2115,
+    "manager_name":"Yash Mehta",
+    "start_date":"2025-11-29T00:00:00.000",
+    "tenure_years":0.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2082,
+    "manager_name":"Sanjay Chawla",
+    "start_date":"2015-11-01T00:00:00.000",
+    "tenure_years":10.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2082,
+    "manager_name":"Kirtan Mehta",
+    "start_date":"2025-11-29T00:00:00.000",
+    "tenure_years":0.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2034,
+    "manager_name":"Jitendra Sriram",
+    "start_date":"2022-06-16T00:00:00.000",
+    "tenure_years":4.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2034,
+    "manager_name":"Kushant Arora",
+    "start_date":"2024-10-21T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2063,
+    "manager_name":"Himanshu Singh",
+    "start_date":"2024-10-21T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2063,
+    "manager_name":"Rohan Korde",
+    "start_date":"2026-05-01T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":1933,
+    "manager_name":"Sanjay Chawla",
+    "start_date":"2022-03-14T00:00:00.000",
+    "tenure_years":4.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":1933,
+    "manager_name":"Yash Mehta",
+    "start_date":"2026-05-01T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":1986,
+    "manager_name":"Sanjay Chawla",
+    "start_date":"2022-03-14T00:00:00.000",
+    "tenure_years":4.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":1986,
+    "manager_name":"Kirtan Mehta",
+    "start_date":"2025-01-01T00:00:00.000",
+    "tenure_years":1.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":2124,
+    "manager_name":"Himanshu Singh",
+    "start_date":"2024-10-21T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2124,
+    "manager_name":"Sanjay Chawla",
+    "start_date":"2026-05-01T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2006,
+    "manager_name":"Sanjay Chawla",
+    "start_date":"2020-09-04T00:00:00.000",
+    "tenure_years":5.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2006,
+    "manager_name":"Kirtan Mehta",
+    "start_date":"2025-01-01T00:00:00.000",
+    "tenure_years":1.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":2117,
+    "manager_name":"Jitendra Sriram",
+    "start_date":"2023-11-01T00:00:00.000",
+    "tenure_years":2.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2117,
+    "manager_name":"Kushant Arora",
+    "start_date":"2024-10-21T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":1956,
+    "manager_name":"Sanjay Chawla",
+    "start_date":"2022-08-22T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":1956,
+    "manager_name":"Kirtan Mehta",
+    "start_date":"2025-01-01T00:00:00.000",
+    "tenure_years":1.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":2260,
+    "manager_name":"Himanshu Singh",
+    "start_date":"2024-10-21T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2260,
+    "manager_name":"Jitendra Sriram",
+    "start_date":"2025-11-29T00:00:00.000",
+    "tenure_years":0.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2114,
+    "manager_name":"Nitin Gosar",
+    "start_date":"2022-09-27T00:00:00.000",
+    "tenure_years":3.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2237,
+    "manager_name":"Alok Singh",
+    "start_date":"2024-10-01T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2237,
+    "manager_name":"Nav Bhardwaj",
+    "start_date":"2025-07-14T00:00:00.000",
+    "tenure_years":1.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":1955,
+    "manager_name":"Alok Singh",
+    "start_date":"2020-06-29T00:00:00.000",
+    "tenure_years":6.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":2033,
+    "manager_name":"Alok Singh",
+    "start_date":"2024-10-01T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2033,
+    "manager_name":"Nilesh Jethani",
+    "start_date":"2024-10-01T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2081,
+    "manager_name":"Nitin Gosar",
+    "start_date":"2023-03-03T00:00:00.000",
+    "tenure_years":3.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4379,
+    "manager_name":"Shridatta Bhandwaldar",
+    "start_date":"2019-10-01T00:00:00.000",
+    "tenure_years":6.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4379,
+    "manager_name":"Vishal Mishra",
+    "start_date":"2021-06-26T00:00:00.000",
+    "tenure_years":5.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4816,
+    "manager_name":"Shridatta Bhandwaldar",
+    "start_date":"2019-10-01T00:00:00.000",
+    "tenure_years":6.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4816,
+    "manager_name":"Ennette Fernandes",
+    "start_date":"2021-10-01T00:00:00.000",
+    "tenure_years":4.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4608,
+    "manager_name":"Shridatta Bhandwaldar",
+    "start_date":"2016-07-05T00:00:00.000",
+    "tenure_years":10.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4608,
+    "manager_name":"Vishal Mishra",
+    "start_date":"2021-06-01T00:00:00.000",
+    "tenure_years":5.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":5142,
+    "manager_name":"Shridatta Bhandwaldar",
+    "start_date":"2019-10-01T00:00:00.000",
+    "tenure_years":6.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":5142,
+    "manager_name":"Pranav Gokhale",
+    "start_date":"2023-11-06T00:00:00.000",
+    "tenure_years":2.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4505,
+    "manager_name":"Shridatta Bhandwaldar",
+    "start_date":"2021-05-17T00:00:00.000",
+    "tenure_years":5.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4505,
+    "manager_name":"Amit Kadam",
+    "start_date":"2021-10-01T00:00:00.000",
+    "tenure_years":4.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":5189,
+    "manager_name":"Vishal Mishra",
+    "start_date":"2021-09-03T00:00:00.000",
+    "tenure_years":4.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4675,
+    "manager_name":"Shridatta Bhandwaldar",
+    "start_date":"2022-12-02T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4675,
+    "manager_name":"Pranav Gokhale",
+    "start_date":"2023-11-06T00:00:00.000",
+    "tenure_years":2.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4380,
+    "manager_name":"Rohit Singhania",
+    "start_date":"2015-07-16T00:00:00.000",
+    "tenure_years":11.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4676,
+    "manager_name":"Vinit Sambre",
+    "start_date":"2012-07-01T00:00:00.000",
+    "tenure_years":14.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4676,
+    "manager_name":"Abhishek Ghosh",
+    "start_date":"2022-09-01T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":5145,
+    "manager_name":"Vinit Sambre",
+    "start_date":"2010-06-21T00:00:00.000",
+    "tenure_years":16.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4448,
+    "manager_name":"Bhavin Gandhi",
+    "start_date":"2024-03-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4508,
+    "manager_name":"Bhavin Gandhi",
+    "start_date":"2024-02-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4828,
+    "manager_name":"Rohit Singhania",
+    "start_date":"2010-06-21T00:00:00.000",
+    "tenure_years":16.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4556,
+    "manager_name":"Rohit Singhania",
+    "start_date":"2015-06-01T00:00:00.000",
+    "tenure_years":11.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4556,
+    "manager_name":"Nilesh Aiya",
+    "start_date":"2025-09-01T00:00:00.000",
+    "tenure_years":0.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4827,
+    "manager_name":"Chirag Dagli",
+    "start_date":"2020-12-01T00:00:00.000",
+    "tenure_years":5.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4831,
+    "manager_name":"Aparna Karnik",
+    "start_date":"2022-05-01T00:00:00.000",
+    "tenure_years":4.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":5192,
+    "manager_name":"Kaivalya Nadkarni",
+    "start_date":"2024-10-01T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":5192,
+    "manager_name":"Abhishek Singh",
+    "start_date":"2026-05-16T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4677,
+    "manager_name":"Trideep Bhattacharya",
+    "start_date":"2021-10-01T00:00:00.000",
+    "tenure_years":4.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4677,
+    "manager_name":"Raj Koradia",
+    "start_date":"2024-08-01T00:00:00.000",
+    "tenure_years":1.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4677,
+    "manager_name":"Dhruv Bhatia",
+    "start_date":"2024-10-14T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4381,
+    "manager_name":"Ashwani Agarwalla",
+    "start_date":"2023-08-01T00:00:00.000",
+    "tenure_years":2.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4381,
+    "manager_name":"Trideep Bhattacharya",
+    "start_date":"2023-08-01T00:00:00.000",
+    "tenure_years":2.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4381,
+    "manager_name":"Raj Koradia",
+    "start_date":"2024-08-01T00:00:00.000",
+    "tenure_years":1.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4612,
+    "manager_name":"Bhavesh Jain",
+    "start_date":"2017-05-02T00:00:00.000",
+    "tenure_years":9.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4612,
+    "manager_name":"Bharat Lahoti",
+    "start_date":"2021-10-01T00:00:00.000",
+    "tenure_years":4.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4449,
+    "manager_name":"Trideep Bhattacharya",
+    "start_date":"2021-10-01T00:00:00.000",
+    "tenure_years":4.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4449,
+    "manager_name":"Ashwani Agarwalla",
+    "start_date":"2022-06-15T00:00:00.000",
+    "tenure_years":4.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4449,
+    "manager_name":"Raj Koradia",
+    "start_date":"2024-08-01T00:00:00.000",
+    "tenure_years":1.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4835,
+    "manager_name":"Bhavesh Jain",
+    "start_date":"2018-02-26T00:00:00.000",
+    "tenure_years":8.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4835,
+    "manager_name":"Bharat Lahoti",
+    "start_date":"2018-02-26T00:00:00.000",
+    "tenure_years":8.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":5146,
+    "manager_name":"Trideep Bhattacharya",
+    "start_date":"2021-12-24T00:00:00.000",
+    "tenure_years":4.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":5146,
+    "manager_name":"Raj Koradia",
+    "start_date":"2024-08-01T00:00:00.000",
+    "tenure_years":1.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":5146,
+    "manager_name":"Dhruv Bhatia",
+    "start_date":"2024-10-14T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4509,
+    "manager_name":"Trideep Bhattacharya",
+    "start_date":"2022-08-01T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4509,
+    "manager_name":"Amit Vora",
+    "start_date":"2023-12-15T00:00:00.000",
+    "tenure_years":2.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4509,
+    "manager_name":"Sumanta Khan",
+    "start_date":"2024-04-01T00:00:00.000",
+    "tenure_years":2.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4509,
+    "manager_name":"Raj Koradia",
+    "start_date":"2024-08-01T00:00:00.000",
+    "tenure_years":1.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4510,
+    "manager_name":"Ajay Argal",
+    "start_date":"2021-10-18T00:00:00.000",
+    "tenure_years":4.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4510,
+    "manager_name":"Sandeep Manam",
+    "start_date":"2021-10-18T00:00:00.000",
+    "tenure_years":4.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4510,
+    "manager_name":"Venkatesh Sanjeevi",
+    "start_date":"2024-10-04T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4837,
+    "manager_name":"Sandeep Manam",
+    "start_date":"2021-10-18T00:00:00.000",
+    "tenure_years":4.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4837,
+    "manager_name":"Shyam Sriram",
+    "start_date":"2024-09-26T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4838,
+    "manager_name":"Ajay Argal",
+    "start_date":"2021-10-18T00:00:00.000",
+    "tenure_years":4.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4838,
+    "manager_name":"Sandeep Manam",
+    "start_date":"2021-10-18T00:00:00.000",
+    "tenure_years":4.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4838,
+    "manager_name":"Kiran Sebastian",
+    "start_date":"2022-02-07T00:00:00.000",
+    "tenure_years":4.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":5193,
+    "manager_name":"Rajasa Kakulavarapu",
+    "start_date":"2021-09-06T00:00:00.000",
+    "tenure_years":4.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":5193,
+    "manager_name":"Ajay Argal",
+    "start_date":"2023-12-01T00:00:00.000",
+    "tenure_years":2.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4357,
+    "manager_name":"Rajasa Kakulavarapu",
+    "start_date":"2021-09-06T00:00:00.000",
+    "tenure_years":4.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4357,
+    "manager_name":"Sandeep Manam",
+    "start_date":"2021-10-18T00:00:00.000",
+    "tenure_years":4.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4357,
+    "manager_name":"Ajay Argal",
+    "start_date":"2023-12-01T00:00:00.000",
+    "tenure_years":2.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4615,
+    "manager_name":"Sandeep Manam",
+    "start_date":"1993-12-01T00:00:00.000",
+    "tenure_years":32.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4615,
+    "manager_name":"Venkatesh Sanjeevi",
+    "start_date":"2021-10-18T00:00:00.000",
+    "tenure_years":4.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4615,
+    "manager_name":"Ajay Argal",
+    "start_date":"2023-12-01T00:00:00.000",
+    "tenure_years":2.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4678,
+    "manager_name":"R. Janakiraman",
+    "start_date":"2011-02-01T00:00:00.000",
+    "tenure_years":15.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4678,
+    "manager_name":"Sandeep Manam",
+    "start_date":"2021-10-18T00:00:00.000",
+    "tenure_years":4.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4678,
+    "manager_name":"Akhil Kalluri",
+    "start_date":"2022-02-07T00:00:00.000",
+    "tenure_years":4.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4450,
+    "manager_name":"R. Janakiraman",
+    "start_date":"2011-02-01T00:00:00.000",
+    "tenure_years":15.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4450,
+    "manager_name":"Sandeep Manam",
+    "start_date":"2021-10-18T00:00:00.000",
+    "tenure_years":4.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4450,
+    "manager_name":"Rajasa Kakulavarapu",
+    "start_date":"2023-12-01T00:00:00.000",
+    "tenure_years":2.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":5147,
+    "manager_name":"R. Janakiraman",
+    "start_date":"2011-02-01T00:00:00.000",
+    "tenure_years":15.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":5147,
+    "manager_name":"Sandeep Manam",
+    "start_date":"2021-10-18T00:00:00.000",
+    "tenure_years":4.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":5147,
+    "manager_name":"Akhil Kalluri",
+    "start_date":"2022-09-08T00:00:00.000",
+    "tenure_years":3.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4382,
+    "manager_name":"R. Janakiraman",
+    "start_date":"2016-05-02T00:00:00.000",
+    "tenure_years":10.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4382,
+    "manager_name":"Rajasa Kakulavarapu",
+    "start_date":"2023-12-01T00:00:00.000",
+    "tenure_years":2.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4842,
+    "manager_name":"Sandeep Manam",
+    "start_date":"2021-10-18T00:00:00.000",
+    "tenure_years":4.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4842,
+    "manager_name":"R. Janakiraman",
+    "start_date":"2023-12-01T00:00:00.000",
+    "tenure_years":2.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4842,
+    "manager_name":"Venkatesh Sanjeevi",
+    "start_date":"2024-10-04T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2035,
+    "manager_name":"Anupam Tiwari",
+    "start_date":"2023-05-04T00:00:00.000",
+    "tenure_years":3.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2035,
+    "manager_name":"Saptarshee Chatterjee",
+    "start_date":"2025-09-23T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2035,
+    "manager_name":"Gagan Thareja",
+    "start_date":"2026-01-20T00:00:00.000",
+    "tenure_years":0.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":2261,
+    "manager_name":"Anupam Tiwari",
+    "start_date":"2023-05-04T00:00:00.000",
+    "tenure_years":3.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2261,
+    "manager_name":"Saptarshee Chatterjee",
+    "start_date":"2025-09-23T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2261,
+    "manager_name":"Gagan Thareja",
+    "start_date":"2026-01-20T00:00:00.000",
+    "tenure_years":0.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":1934,
+    "manager_name":"Paras Matalia",
+    "start_date":"2025-07-14T00:00:00.000",
+    "tenure_years":1.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":1934,
+    "manager_name":"Nikhil Satam",
+    "start_date":"2025-11-21T00:00:00.000",
+    "tenure_years":0.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4679,
+    "manager_name":"Chirag Setalvad",
+    "start_date":"2007-06-25T00:00:00.000",
+    "tenure_years":19.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4679,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4849,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4849,
+    "manager_name":"Ashish Shah",
+    "start_date":"2025-11-01T00:00:00.000",
+    "tenure_years":0.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":5149,
+    "manager_name":"Chirag Setalvad",
+    "start_date":"2014-06-28T00:00:00.000",
+    "tenure_years":12.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":5149,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4561,
+    "manager_name":"Gopal Agrawal",
+    "start_date":"2020-07-16T00:00:00.000",
+    "tenure_years":6.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4561,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":5203,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":5203,
+    "manager_name":"Anand Laddha",
+    "start_date":"2024-02-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4511,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4511,
+    "manager_name":"Amit Ganatra",
+    "start_date":"2026-02-01T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4451,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4451,
+    "manager_name":"Amit Ganatra",
+    "start_date":"2026-02-01T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4385,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4385,
+    "manager_name":"Amar Kalkundrikar",
+    "start_date":"2025-12-08T00:00:00.000",
+    "tenure_years":0.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4625,
+    "manager_name":"Rahul Baijal",
+    "start_date":"2022-07-29T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4625,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4848,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4848,
+    "manager_name":"Srinivasan Ramamurthy",
+    "start_date":"2024-01-12T00:00:00.000",
+    "tenure_years":2.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4358,
+    "manager_name":"Gopal Agrawal",
+    "start_date":"2020-12-18T00:00:00.000",
+    "tenure_years":5.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4358,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4844,
+    "manager_name":"Anand Laddha",
+    "start_date":"2021-07-01T00:00:00.000",
+    "tenure_years":5.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4844,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4727,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4727,
+    "manager_name":"Amar Kalkundrikar",
+    "start_date":"2025-09-01T00:00:00.000",
+    "tenure_years":0.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4845,
+    "manager_name":"Rahul Baijal",
+    "start_date":"2022-11-30T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4845,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4852,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4852,
+    "manager_name":"Nikhil Mathur",
+    "start_date":"2026-05-15T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4847,
+    "manager_name":"Dhruv Muchhal",
+    "start_date":"2023-06-22T00:00:00.000",
+    "tenure_years":3.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4847,
+    "manager_name":"Priya Ranjan",
+    "start_date":"2025-04-18T00:00:00.000",
+    "tenure_years":1.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4847,
+    "manager_name":"Rahul Baijal",
+    "start_date":"2025-04-18T00:00:00.000",
+    "tenure_years":1.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4861,
+    "manager_name":"Venugopal Manghat",
+    "start_date":"2019-12-17T00:00:00.000",
+    "tenure_years":6.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4861,
+    "manager_name":"Gautam Bhupal",
+    "start_date":"2022-11-26T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4861,
+    "manager_name":"Mayank Chaturvedi",
+    "start_date":"2025-10-01T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":5204,
+    "manager_name":"Venugopal Manghat",
+    "start_date":"2012-11-24T00:00:00.000",
+    "tenure_years":13.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":5204,
+    "manager_name":"Mayank Chaturvedi",
+    "start_date":"2025-10-01T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4681,
+    "manager_name":"Cheenu Gupta",
+    "start_date":"2022-11-26T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4681,
+    "manager_name":"Mayank Chaturvedi",
+    "start_date":"2025-10-01T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4387,
+    "manager_name":"Abhishek Gupta",
+    "start_date":"2024-03-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4387,
+    "manager_name":"Mayank Chaturvedi",
+    "start_date":"2025-10-01T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4626,
+    "manager_name":"Neelotpal Sahai",
+    "start_date":"2013-05-27T00:00:00.000",
+    "tenure_years":13.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4626,
+    "manager_name":"Mayank Chaturvedi",
+    "start_date":"2025-10-01T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4453,
+    "manager_name":"Abhishek Gupta",
+    "start_date":"2024-03-01T00:00:00.000",
+    "tenure_years":2.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4453,
+    "manager_name":"Mayank Chaturvedi",
+    "start_date":"2025-10-01T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":5151,
+    "manager_name":"Venugopal Manghat",
+    "start_date":"2019-12-17T00:00:00.000",
+    "tenure_years":6.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":5151,
+    "manager_name":"Mayank Chaturvedi",
+    "start_date":"2025-10-01T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4857,
+    "manager_name":"Gautam Bhupal",
+    "start_date":"2023-06-01T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4857,
+    "manager_name":"Mayank Chaturvedi",
+    "start_date":"2025-10-01T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4563,
+    "manager_name":"Cheenu Gupta",
+    "start_date":"2022-11-26T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4563,
+    "manager_name":"Mayank Chaturvedi",
+    "start_date":"2025-10-01T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4512,
+    "manager_name":"Neelotpal Sahai",
+    "start_date":"2020-07-29T00:00:00.000",
+    "tenure_years":5.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4512,
+    "manager_name":"Sonal Gupta",
+    "start_date":"2023-12-31T00:00:00.000",
+    "tenure_years":2.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4512,
+    "manager_name":"Mayank Chaturvedi",
+    "start_date":"2025-10-01T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4728,
+    "manager_name":"Venugopal Manghat",
+    "start_date":"2023-01-30T00:00:00.000",
+    "tenure_years":3.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4728,
+    "manager_name":"Mahesh Chhabria",
+    "start_date":"2025-02-01T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4728,
+    "manager_name":"Mayank Chaturvedi",
+    "start_date":"2025-10-01T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":5152,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-06-30T00:00:00.000",
+    "tenure_years":4.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":5152,
+    "manager_name":"Aatur Shah",
+    "start_date":"2025-04-21T00:00:00.000",
+    "tenure_years":1.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":5152,
+    "manager_name":"Rajat Chandak",
+    "start_date":"2026-02-05T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":5152,
+    "manager_name":"Sakshat Goel",
+    "start_date":"2026-02-05T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":5152,
+    "manager_name":"Gaurav Jain",
+    "start_date":"2026-02-05T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4863,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-06-30T00:00:00.000",
+    "tenure_years":4.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4863,
+    "manager_name":"Antariksha Banerjee",
+    "start_date":"2026-03-02T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4513,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4513,
+    "manager_name":"Vaibhav Dusad",
+    "start_date":"2022-08-08T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4886,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-01T00:00:00.000",
+    "tenure_years":4.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4886,
+    "manager_name":"Ritesh Lunawat",
+    "start_date":"2024-09-13T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4886,
+    "manager_name":"Nitya Mishra",
+    "start_date":"2024-11-04T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4875,
+    "manager_name":"Ihab Dalwai",
+    "start_date":"2017-06-03T00:00:00.000",
+    "tenure_years":9.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4875,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-06-30T00:00:00.000",
+    "tenure_years":4.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4682,
+    "manager_name":"Lalit Kumar",
+    "start_date":"2022-07-01T00:00:00.000",
+    "tenure_years":4.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4682,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4871,
+    "manager_name":"Sankaran Naren",
+    "start_date":"2017-07-14T00:00:00.000",
+    "tenure_years":9.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4871,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-06-30T00:00:00.000",
+    "tenure_years":4.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4871,
+    "manager_name":"Sri Sharma",
+    "start_date":"2023-05-01T00:00:00.000",
+    "tenure_years":3.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4388,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4388,
+    "manager_name":"Mittul Kalawadia",
+    "start_date":"2023-09-18T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4388,
+    "manager_name":"Priyanka Khandelwal",
+    "start_date":"2026-03-02T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4884,
+    "manager_name":"Vaibhav Dusad",
+    "start_date":"2020-05-02T00:00:00.000",
+    "tenure_years":6.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4884,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-06-30T00:00:00.000",
+    "tenure_years":4.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4564,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4564,
+    "manager_name":"Gaurav Jain",
+    "start_date":"2026-06-15T00:00:00.000",
+    "tenure_years":0.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4564,
+    "manager_name":"Lalit Kumar",
+    "start_date":"2026-06-15T00:00:00.000",
+    "tenure_years":0.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4564,
+    "manager_name":"Sri Sharma",
+    "start_date":"2026-06-15T00:00:00.000",
+    "tenure_years":0.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4729,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4729,
+    "manager_name":"Lalit Kumar",
+    "start_date":"2025-09-29T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":5205,
+    "manager_name":"Sankaran Naren",
+    "start_date":"2021-01-18T00:00:00.000",
+    "tenure_years":5.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":5205,
+    "manager_name":"Dharmesh Kakkad",
+    "start_date":"2021-01-18T00:00:00.000",
+    "tenure_years":5.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":5205,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-06-30T00:00:00.000",
+    "tenure_years":4.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":5205,
+    "manager_name":"Masoomi Jhurmarvala",
+    "start_date":"2024-11-04T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4872,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-06-30T00:00:00.000",
+    "tenure_years":4.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4872,
+    "manager_name":"Nitya Mishra",
+    "start_date":"2026-03-02T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4359,
+    "manager_name":"Mittul Kalawadia",
+    "start_date":"2018-01-29T00:00:00.000",
+    "tenure_years":8.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4359,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4879,
+    "manager_name":"Dharmesh Kakkad",
+    "start_date":"2020-05-02T00:00:00.000",
+    "tenure_years":6.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4879,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4877,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4877,
+    "manager_name":"Roshan Chutkey",
+    "start_date":"2026-03-02T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4874,
+    "manager_name":"Sankaran Naren",
+    "start_date":"2019-01-16T00:00:00.000",
+    "tenure_years":7.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4874,
+    "manager_name":"Roshan Chutkey",
+    "start_date":"2019-01-16T00:00:00.000",
+    "tenure_years":7.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4874,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4874,
+    "manager_name":"Divya Jain",
+    "start_date":"2025-08-01T00:00:00.000",
+    "tenure_years":0.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4864,
+    "manager_name":"Priyanka Khandelwal",
+    "start_date":"2022-07-01T00:00:00.000",
+    "tenure_years":4.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4864,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4878,
+    "manager_name":"Roshan Chutkey",
+    "start_date":"2022-07-01T00:00:00.000",
+    "tenure_years":4.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4878,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4870,
+    "manager_name":"Mittul Kalawadia",
+    "start_date":"2022-03-01T00:00:00.000",
+    "tenure_years":4.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4870,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4882,
+    "manager_name":"Roshan Chutkey",
+    "start_date":"2020-12-11T00:00:00.000",
+    "tenure_years":5.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4882,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4865,
+    "manager_name":"Manish Banthia",
+    "start_date":"2021-01-18T00:00:00.000",
+    "tenure_years":5.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4865,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4865,
+    "manager_name":"Manan Tijoriwala",
+    "start_date":"2025-08-29T00:00:00.000",
+    "tenure_years":0.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4865,
+    "manager_name":"Divya Jain",
+    "start_date":"2026-01-01T00:00:00.000",
+    "tenure_years":0.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4454,
+    "manager_name":"Rajat Chandak",
+    "start_date":"2021-07-19T00:00:00.000",
+    "tenure_years":5.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4454,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-07-31T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4873,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-06-30T00:00:00.000",
+    "tenure_years":4.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4873,
+    "manager_name":"Sanket Gaidhani",
+    "start_date":"2025-08-29T00:00:00.000",
+    "tenure_years":0.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4880,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2023-11-30T00:00:00.000",
+    "tenure_years":2.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4880,
+    "manager_name":"Antariksha Banerjee",
+    "start_date":"2025-08-29T00:00:00.000",
+    "tenure_years":0.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4885,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2022-10-28T00:00:00.000",
+    "tenure_years":3.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4885,
+    "manager_name":"Rajat Chandak",
+    "start_date":"2023-09-18T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4885,
+    "manager_name":"Priyanka Khandelwal",
+    "start_date":"2023-09-18T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4876,
+    "manager_name":"Vaibhav Dusad",
+    "start_date":"2023-05-02T00:00:00.000",
+    "tenure_years":3.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4876,
+    "manager_name":"Sharmila D'Silva",
+    "start_date":"2023-05-02T00:00:00.000",
+    "tenure_years":3.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":1984,
+    "manager_name":"Mayur Patel",
+    "start_date":"2019-11-11T00:00:00.000",
+    "tenure_years":6.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":1984,
+    "manager_name":"Ashish Ongari",
+    "start_date":"2025-02-21T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2098,
+    "manager_name":"Ashish Ongari",
+    "start_date":"2025-02-21T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1928,
+    "manager_name":"Ashish Ongari",
+    "start_date":"2025-02-21T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1936,
+    "manager_name":"Deepesh Kashyap",
+    "start_date":"2025-07-01T00:00:00.000",
+    "tenure_years":1.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":2141,
+    "manager_name":"Hiten Jain",
+    "start_date":"2025-07-01T00:00:00.000",
+    "tenure_years":1.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":2141,
+    "manager_name":"Sagar Gandhi",
+    "start_date":"2025-07-01T00:00:00.000",
+    "tenure_years":1.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":1987,
+    "manager_name":"Taher Badshah",
+    "start_date":"2020-09-29T00:00:00.000",
+    "tenure_years":5.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":1987,
+    "manager_name":"Hiten Jain",
+    "start_date":"2022-09-14T00:00:00.000",
+    "tenure_years":3.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2131,
+    "manager_name":"Taher Badshah",
+    "start_date":"2021-03-22T00:00:00.000",
+    "tenure_years":5.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2131,
+    "manager_name":"Haresh Kapoor",
+    "start_date":"2026-01-01T00:00:00.000",
+    "tenure_years":0.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":1959,
+    "manager_name":"Taher Badshah",
+    "start_date":"2022-02-14T00:00:00.000",
+    "tenure_years":4.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2087,
+    "manager_name":"Dhimant Shah",
+    "start_date":"2022-08-08T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":2087,
+    "manager_name":"Alok Ranjan",
+    "start_date":"2026-05-08T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":1937,
+    "manager_name":"Dhimant Shah",
+    "start_date":"2022-12-01T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":1937,
+    "manager_name":"Alok Ranjan",
+    "start_date":"2024-11-04T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2244,
+    "manager_name":"Dhimant Shah",
+    "start_date":"2022-08-08T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":2244,
+    "manager_name":"Alok Ranjan",
+    "start_date":"2026-05-08T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2047,
+    "manager_name":"Alok Ranjan",
+    "start_date":"2024-11-04T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2047,
+    "manager_name":"Nilay Dalal",
+    "start_date":"2026-05-08T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2068,
+    "manager_name":"Dhimant Shah",
+    "start_date":"2022-10-01T00:00:00.000",
+    "tenure_years":3.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2068,
+    "manager_name":"Alok Ranjan",
+    "start_date":"2026-05-08T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2270,
+    "manager_name":"Dhimant Shah",
+    "start_date":"2022-12-01T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2270,
+    "manager_name":"Nilay Dalal",
+    "start_date":"2026-05-08T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2148,
+    "manager_name":"Animesh Singh",
+    "start_date":"2026-05-08T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2148,
+    "manager_name":"Nilay Dalal",
+    "start_date":"2026-05-08T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2145,
+    "manager_name":"Nilay Dalal",
+    "start_date":"2023-05-05T00:00:00.000",
+    "tenure_years":3.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2145,
+    "manager_name":"Animesh Singh",
+    "start_date":"2026-05-08T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":1960,
+    "manager_name":"Dhimant Shah",
+    "start_date":"2023-02-22T00:00:00.000",
+    "tenure_years":3.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1960,
+    "manager_name":"Nilay Dalal",
+    "start_date":"2026-05-08T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":1990,
+    "manager_name":"Dhimant Shah",
+    "start_date":"2023-06-21T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":1990,
+    "manager_name":"Alok Ranjan",
+    "start_date":"2026-05-08T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":5207,
+    "manager_name":"Asit Bhandarkar",
+    "start_date":"2006-12-11T00:00:00.000",
+    "tenure_years":19.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":5207,
+    "manager_name":"Satish Ramanathan",
+    "start_date":"2021-08-20T00:00:00.000",
+    "tenure_years":4.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":5207,
+    "manager_name":"Ruchi Fozdar",
+    "start_date":"2024-10-04T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":5207,
+    "manager_name":"Deepak Gupta",
+    "start_date":"2025-04-11T00:00:00.000",
+    "tenure_years":1.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4518,
+    "manager_name":"Asit Bhandarkar",
+    "start_date":"2009-02-25T00:00:00.000",
+    "tenure_years":17.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4518,
+    "manager_name":"Satish Ramanathan",
+    "start_date":"2024-10-01T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4518,
+    "manager_name":"Ruchi Fozdar",
+    "start_date":"2024-10-04T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4518,
+    "manager_name":"Deepak Gupta",
+    "start_date":"2025-04-11T00:00:00.000",
+    "tenure_years":1.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4391,
+    "manager_name":"Asit Bhandarkar",
+    "start_date":"2021-12-31T00:00:00.000",
+    "tenure_years":4.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4391,
+    "manager_name":"Satish Ramanathan",
+    "start_date":"2024-10-01T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4391,
+    "manager_name":"Ruchi Fozdar",
+    "start_date":"2024-10-04T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4391,
+    "manager_name":"Deepak Gupta",
+    "start_date":"2025-04-11T00:00:00.000",
+    "tenure_years":1.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4458,
+    "manager_name":"Satish Ramanathan",
+    "start_date":"2021-08-20T00:00:00.000",
+    "tenure_years":4.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4458,
+    "manager_name":"Asit Bhandarkar",
+    "start_date":"2024-10-01T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4458,
+    "manager_name":"Ruchi Fozdar",
+    "start_date":"2024-10-04T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4458,
+    "manager_name":"Deepak Gupta",
+    "start_date":"2025-04-11T00:00:00.000",
+    "tenure_years":1.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4634,
+    "manager_name":"Asit Bhandarkar",
+    "start_date":"2017-10-05T00:00:00.000",
+    "tenure_years":8.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4634,
+    "manager_name":"Satish Ramanathan",
+    "start_date":"2021-08-20T00:00:00.000",
+    "tenure_years":4.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4634,
+    "manager_name":"Ruchi Fozdar",
+    "start_date":"2024-10-04T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4634,
+    "manager_name":"Deepak Gupta",
+    "start_date":"2025-01-27T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4687,
+    "manager_name":"Satish Ramanathan",
+    "start_date":"2022-11-21T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4687,
+    "manager_name":"Asit Bhandarkar",
+    "start_date":"2024-10-01T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4687,
+    "manager_name":"Ruchi Fozdar",
+    "start_date":"2024-10-04T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4687,
+    "manager_name":"Deepak Gupta",
+    "start_date":"2025-04-11T00:00:00.000",
+    "tenure_years":1.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4911,
+    "manager_name":"Shibani Kurian",
+    "start_date":"2023-02-27T00:00:00.000",
+    "tenure_years":3.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4911,
+    "manager_name":"Abhishek Bisen",
+    "start_date":"2023-02-27T00:00:00.000",
+    "tenure_years":3.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4570,
+    "manager_name":"Harsha Upadhyaya",
+    "start_date":"2012-08-04T00:00:00.000",
+    "tenure_years":13.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4392,
+    "manager_name":"Harsha Upadhyaya",
+    "start_date":"2015-08-25T00:00:00.000",
+    "tenure_years":10.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4945,
+    "manager_name":"Mahesh Bendre",
+    "start_date":"2024-07-01T00:00:00.000",
+    "tenure_years":2.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4945,
+    "manager_name":"Sumit Bhatnagar",
+    "start_date":"2026-04-07T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4640,
+    "manager_name":"Sumit Bhatnagar",
+    "start_date":"2023-10-03T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4640,
+    "manager_name":"Mahesh Bendre",
+    "start_date":"2025-07-24T00:00:00.000",
+    "tenure_years":1.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4461,
+    "manager_name":"Sudhanshu Asthana",
+    "start_date":"2026-04-07T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4394,
+    "manager_name":"Sumit Bhatnagar",
+    "start_date":"2026-04-07T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4571,
+    "manager_name":"Dikshit Mittal",
+    "start_date":"2023-06-01T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4571,
+    "manager_name":"Sudhanshu Asthana",
+    "start_date":"2026-04-07T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4942,
+    "manager_name":"Sudhanshu Asthana",
+    "start_date":"2026-04-07T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4735,
+    "manager_name":"Dikshit Mittal",
+    "start_date":"2022-12-01T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":1938,
+    "manager_name":"Fatema Pacha",
+    "start_date":"2020-10-16T00:00:00.000",
+    "tenure_years":5.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":1938,
+    "manager_name":"Neelesh Dhamnaskar",
+    "start_date":"2026-02-16T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2088,
+    "manager_name":"Fatema Pacha",
+    "start_date":"2020-10-16T00:00:00.000",
+    "tenure_years":5.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2088,
+    "manager_name":"Vishal Jajoo",
+    "start_date":"2025-11-03T00:00:00.000",
+    "tenure_years":0.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2069,
+    "manager_name":"Krishna Sanghavi",
+    "start_date":"2024-10-24T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2069,
+    "manager_name":"Kirti Dalvi",
+    "start_date":"2024-12-03T00:00:00.000",
+    "tenure_years":1.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2069,
+    "manager_name":"Neelesh Dhamnaskar",
+    "start_date":"2026-02-16T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2151,
+    "manager_name":"Fatema Pacha",
+    "start_date":"2020-12-21T00:00:00.000",
+    "tenure_years":5.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":2151,
+    "manager_name":"Navin Matta",
+    "start_date":"2024-10-24T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2049,
+    "manager_name":"Fatema Pacha",
+    "start_date":"2020-12-21T00:00:00.000",
+    "tenure_years":5.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":2049,
+    "manager_name":"Kirti Dalvi",
+    "start_date":"2025-12-02T00:00:00.000",
+    "tenure_years":0.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2012,
+    "manager_name":"Kirti Dalvi",
+    "start_date":"2025-12-02T00:00:00.000",
+    "tenure_years":0.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2012,
+    "manager_name":"Neelesh Dhamnaskar",
+    "start_date":"2026-02-16T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1991,
+    "manager_name":"Krishna Sanghavi",
+    "start_date":"2020-11-17T00:00:00.000",
+    "tenure_years":5.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":1991,
+    "manager_name":"Fatema Pacha",
+    "start_date":"2020-12-21T00:00:00.000",
+    "tenure_years":5.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":1962,
+    "manager_name":"Fatema Pacha",
+    "start_date":"2021-08-23T00:00:00.000",
+    "tenure_years":4.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":1962,
+    "manager_name":"Neelesh Dhamnaskar",
+    "start_date":"2026-02-16T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2245,
+    "manager_name":"Krishna Sanghavi",
+    "start_date":"2024-10-24T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2245,
+    "manager_name":"Vishal Jajoo",
+    "start_date":"2024-12-23T00:00:00.000",
+    "tenure_years":1.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":2245,
+    "manager_name":"Neelesh Dhamnaskar",
+    "start_date":"2026-02-16T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4642,
+    "manager_name":"Gaurav Misra",
+    "start_date":"2019-01-31T00:00:00.000",
+    "tenure_years":7.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4573,
+    "manager_name":"Neelesh Surana",
+    "start_date":"2010-07-09T00:00:00.000",
+    "tenure_years":16.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4573,
+    "manager_name":"Ankit Jain",
+    "start_date":"2019-01-31T00:00:00.000",
+    "tenure_years":7.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4954,
+    "manager_name":"Siddhant Chhabria",
+    "start_date":"2021-06-21T00:00:00.000",
+    "tenure_years":5.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4407,
+    "manager_name":"Neelesh Surana",
+    "start_date":"2015-12-28T00:00:00.000",
+    "tenure_years":10.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4955,
+    "manager_name":"Vrijesh Kasera",
+    "start_date":"2018-07-02T00:00:00.000",
+    "tenure_years":8.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4955,
+    "manager_name":"Tanmay Mehta",
+    "start_date":"2025-04-01T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4525,
+    "manager_name":"Gaurav Misra",
+    "start_date":"2019-05-14T00:00:00.000",
+    "tenure_years":7.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4525,
+    "manager_name":"Varun Goel",
+    "start_date":"2026-06-22T00:00:00.000",
+    "tenure_years":0.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4693,
+    "manager_name":"Ankit Jain",
+    "start_date":"2019-07-29T00:00:00.000",
+    "tenure_years":6.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4953,
+    "manager_name":"Abhijith Vara",
+    "start_date":"2025-09-23T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4463,
+    "manager_name":"Varun Goel",
+    "start_date":"2024-04-03T00:00:00.000",
+    "tenure_years":2.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4526,
+    "manager_name":"Rakesh Shetty",
+    "start_date":"2022-11-22T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4526,
+    "manager_name":"Atul Mehra",
+    "start_date":"2024-10-01T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4526,
+    "manager_name":"Ankit Agarwal",
+    "start_date":"2025-08-05T00:00:00.000",
+    "tenure_years":0.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4526,
+    "manager_name":"Varun Sharma",
+    "start_date":"2025-08-14T00:00:00.000",
+    "tenure_years":0.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4526,
+    "manager_name":"Swapnil Mayekar",
+    "start_date":"2025-11-18T00:00:00.000",
+    "tenure_years":0.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4408,
+    "manager_name":"Rakesh Shetty",
+    "start_date":"2022-11-22T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4408,
+    "manager_name":"Ajay Khandelwal",
+    "start_date":"2023-12-11T00:00:00.000",
+    "tenure_years":2.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4408,
+    "manager_name":"Atul Mehra",
+    "start_date":"2024-10-01T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4408,
+    "manager_name":"Ankit Agarwal",
+    "start_date":"2026-03-16T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4574,
+    "manager_name":"Rakesh Shetty",
+    "start_date":"2022-11-22T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4574,
+    "manager_name":"Ajay Khandelwal",
+    "start_date":"2023-12-11T00:00:00.000",
+    "tenure_years":2.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4574,
+    "manager_name":"Atul Mehra",
+    "start_date":"2024-10-01T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4574,
+    "manager_name":"Swapnil Mayekar",
+    "start_date":"2025-11-18T00:00:00.000",
+    "tenure_years":0.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4574,
+    "manager_name":"Ankit Agarwal",
+    "start_date":"2026-03-16T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2013,
+    "manager_name":"Ashutosh Shirwaikar",
+    "start_date":"2023-08-01T00:00:00.000",
+    "tenure_years":2.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":1963,
+    "manager_name":"Ashutosh Shirwaikar",
+    "start_date":"2023-08-01T00:00:00.000",
+    "tenure_years":2.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":1940,
+    "manager_name":"Ashutosh Shirwaikar",
+    "start_date":"2023-12-01T00:00:00.000",
+    "tenure_years":2.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2050,
+    "manager_name":"Sailesh Raj Bhan",
+    "start_date":"2007-08-08T00:00:00.000",
+    "tenure_years":18.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":2050,
+    "manager_name":"Kinjal Desai",
+    "start_date":"2018-05-25T00:00:00.000",
+    "tenure_years":8.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2050,
+    "manager_name":"Bhavik Dave",
+    "start_date":"2024-08-19T00:00:00.000",
+    "tenure_years":1.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":2050,
+    "manager_name":"Amber Singhania",
+    "start_date":"2026-03-11T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2090,
+    "manager_name":"Sailesh Raj Bhan",
+    "start_date":"2005-03-31T00:00:00.000",
+    "tenure_years":21.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2090,
+    "manager_name":"Kinjal Desai",
+    "start_date":"2018-05-25T00:00:00.000",
+    "tenure_years":8.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2090,
+    "manager_name":"Amber Singhania",
+    "start_date":"2026-03-11T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2019,
+    "manager_name":"Kinjal Desai",
+    "start_date":"2018-05-25T00:00:00.000",
+    "tenure_years":8.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2019,
+    "manager_name":"Aishwarya Agarwal",
+    "start_date":"2021-06-18T00:00:00.000",
+    "tenure_years":5.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2019,
+    "manager_name":"Amber Singhania",
+    "start_date":"2026-03-11T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2247,
+    "manager_name":"Samir Rachh",
+    "start_date":"2017-01-02T00:00:00.000",
+    "tenure_years":9.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":2247,
+    "manager_name":"Kinjal Desai",
+    "start_date":"2018-05-25T00:00:00.000",
+    "tenure_years":8.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2247,
+    "manager_name":"Amber Singhania",
+    "start_date":"2026-03-11T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2156,
+    "manager_name":"Vinay Sharma",
+    "start_date":"2018-04-09T00:00:00.000",
+    "tenure_years":8.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2156,
+    "manager_name":"Kinjal Desai",
+    "start_date":"2018-05-25T00:00:00.000",
+    "tenure_years":8.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2156,
+    "manager_name":"Bhavik Dave",
+    "start_date":"2021-06-18T00:00:00.000",
+    "tenure_years":5.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2156,
+    "manager_name":"Amber Singhania",
+    "start_date":"2026-03-11T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2166,
+    "manager_name":"Kinjal Desai",
+    "start_date":"2018-05-25T00:00:00.000",
+    "tenure_years":8.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2166,
+    "manager_name":"Rahul Modi",
+    "start_date":"2024-08-19T00:00:00.000",
+    "tenure_years":1.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":2166,
+    "manager_name":"Amber Singhania",
+    "start_date":"2026-03-11T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2164,
+    "manager_name":"Sailesh Raj Bhan",
+    "start_date":"2005-04-01T00:00:00.000",
+    "tenure_years":21.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2164,
+    "manager_name":"Kinjal Desai",
+    "start_date":"2018-05-25T00:00:00.000",
+    "tenure_years":8.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2164,
+    "manager_name":"Amber Singhania",
+    "start_date":"2026-03-11T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":1942,
+    "manager_name":"Kinjal Desai",
+    "start_date":"2018-05-25T00:00:00.000",
+    "tenure_years":8.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":1942,
+    "manager_name":"Rupesh Patel",
+    "start_date":"2021-07-01T00:00:00.000",
+    "tenure_years":5.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":1942,
+    "manager_name":"Ritesh Rathod",
+    "start_date":"2024-08-19T00:00:00.000",
+    "tenure_years":1.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":1942,
+    "manager_name":"Amber Singhania",
+    "start_date":"2026-03-11T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4413,
+    "manager_name":"Viral Shah",
+    "start_date":"2023-06-19T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4413,
+    "manager_name":"Dhaval Patel",
+    "start_date":"2023-06-19T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4413,
+    "manager_name":"Jaimin Ilavia",
+    "start_date":"2026-06-11T00:00:00.000",
+    "tenure_years":0.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2072,
+    "manager_name":"Puneet Pal",
+    "start_date":"2022-07-16T00:00:00.000",
+    "tenure_years":4.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":2072,
+    "manager_name":"Vinay Paharia",
+    "start_date":"2023-04-01T00:00:00.000",
+    "tenure_years":3.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2072,
+    "manager_name":"Utsav Mehta",
+    "start_date":"2023-11-01T00:00:00.000",
+    "tenure_years":2.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2072,
+    "manager_name":"Vivek Sharma",
+    "start_date":"2024-04-15T00:00:00.000",
+    "tenure_years":2.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":1971,
+    "manager_name":"A. Anandha Padmanabhan",
+    "start_date":"2021-06-01T00:00:00.000",
+    "tenure_years":5.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":1971,
+    "manager_name":"Vinay Paharia",
+    "start_date":"2023-04-01T00:00:00.000",
+    "tenure_years":3.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":1971,
+    "manager_name":"Puneet Pal",
+    "start_date":"2023-04-01T00:00:00.000",
+    "tenure_years":3.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":1971,
+    "manager_name":"Vivek Sharma",
+    "start_date":"2024-04-15T00:00:00.000",
+    "tenure_years":2.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":1943,
+    "manager_name":"Vinay Paharia",
+    "start_date":"2023-04-01T00:00:00.000",
+    "tenure_years":3.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":1943,
+    "manager_name":"Utsav Mehta",
+    "start_date":"2024-04-15T00:00:00.000",
+    "tenure_years":2.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":1943,
+    "manager_name":"Vivek Sharma",
+    "start_date":"2024-04-15T00:00:00.000",
+    "tenure_years":2.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":1943,
+    "manager_name":"Akhil Dhar",
+    "start_date":"2026-02-25T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2248,
+    "manager_name":"Puneet Pal",
+    "start_date":"2023-04-01T00:00:00.000",
+    "tenure_years":3.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2248,
+    "manager_name":"Vinay Paharia",
+    "start_date":"2023-04-01T00:00:00.000",
+    "tenure_years":3.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2248,
+    "manager_name":"Utsav Mehta",
+    "start_date":"2024-04-15T00:00:00.000",
+    "tenure_years":2.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2248,
+    "manager_name":"Vivek Sharma",
+    "start_date":"2024-04-15T00:00:00.000",
+    "tenure_years":2.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4478,
+    "manager_name":"Rajeev Thakkar",
+    "start_date":"2013-05-24T00:00:00.000",
+    "tenure_years":13.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4478,
+    "manager_name":"Raunak Onkar",
+    "start_date":"2013-05-24T00:00:00.000",
+    "tenure_years":13.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4478,
+    "manager_name":"Raj Mehta",
+    "start_date":"2016-01-27T00:00:00.000",
+    "tenure_years":10.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4478,
+    "manager_name":"Rukun Tarachandani",
+    "start_date":"2022-05-16T00:00:00.000",
+    "tenure_years":4.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4478,
+    "manager_name":"Mansi Kariya",
+    "start_date":"2023-12-22T00:00:00.000",
+    "tenure_years":2.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4478,
+    "manager_name":"Aishwarya Dhar",
+    "start_date":"2025-09-01T00:00:00.000",
+    "tenure_years":0.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4478,
+    "manager_name":"Tejas Soman",
+    "start_date":"2025-09-01T00:00:00.000",
+    "tenure_years":0.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4415,
+    "manager_name":"Rajeev Thakkar",
+    "start_date":"2019-07-26T00:00:00.000",
+    "tenure_years":7.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4415,
+    "manager_name":"Raj Mehta",
+    "start_date":"2019-07-26T00:00:00.000",
+    "tenure_years":7.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4415,
+    "manager_name":"Raunak Onkar",
+    "start_date":"2019-07-26T00:00:00.000",
+    "tenure_years":7.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4415,
+    "manager_name":"Rukun Tarachandani",
+    "start_date":"2022-05-16T00:00:00.000",
+    "tenure_years":4.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4415,
+    "manager_name":"Aishwarya Dhar",
+    "start_date":"2025-09-01T00:00:00.000",
+    "tenure_years":0.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4415,
+    "manager_name":"Tejas Soman",
+    "start_date":"2025-09-01T00:00:00.000",
+    "tenure_years":0.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":2022,
+    "manager_name":"Sanjeev Sharma",
+    "start_date":"2017-02-01T00:00:00.000",
+    "tenure_years":9.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2022,
+    "manager_name":"Ankit A. Pande",
+    "start_date":"2020-05-11T00:00:00.000",
+    "tenure_years":6.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2022,
+    "manager_name":"Varun Pattani",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2022,
+    "manager_name":"Sandeep Tandon",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2022,
+    "manager_name":"Ayusha Kumbhat",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2022,
+    "manager_name":"Sameer Kate",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2022,
+    "manager_name":"Yug Tibrewal",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2180,
+    "manager_name":"Ankit A. Pande",
+    "start_date":"2020-05-11T00:00:00.000",
+    "tenure_years":6.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2180,
+    "manager_name":"Sandeep Tandon",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2180,
+    "manager_name":"Sanjeev Sharma",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2180,
+    "manager_name":"Ayusha Kumbhat",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2180,
+    "manager_name":"Varun Pattani",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2180,
+    "manager_name":"Sameer Kate",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2180,
+    "manager_name":"Yug Tibrewal",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2180,
+    "manager_name":"Jignesh Shah",
+    "start_date":"2026-02-20T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1995,
+    "manager_name":"Sanjeev Sharma",
+    "start_date":"2017-01-31T00:00:00.000",
+    "tenure_years":9.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1995,
+    "manager_name":"Ankit A. Pande",
+    "start_date":"2020-05-11T00:00:00.000",
+    "tenure_years":6.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":1995,
+    "manager_name":"Sandeep Tandon",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1995,
+    "manager_name":"Ayusha Kumbhat",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1995,
+    "manager_name":"Varun Pattani",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1995,
+    "manager_name":"Sameer Kate",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":1995,
+    "manager_name":"Yug Tibrewal",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":1995,
+    "manager_name":"Jignesh Shah",
+    "start_date":"2026-02-20T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1972,
+    "manager_name":"Sanjeev Sharma",
+    "start_date":"2017-01-31T00:00:00.000",
+    "tenure_years":9.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1972,
+    "manager_name":"Ankit A. Pande",
+    "start_date":"2020-05-11T00:00:00.000",
+    "tenure_years":6.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":1972,
+    "manager_name":"Sandeep Tandon",
+    "start_date":"2022-01-07T00:00:00.000",
+    "tenure_years":4.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":1972,
+    "manager_name":"Ayusha Kumbhat",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1972,
+    "manager_name":"Varun Pattani",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1972,
+    "manager_name":"Sameer Kate",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":1972,
+    "manager_name":"Yug Tibrewal",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":1972,
+    "manager_name":"Jignesh Shah",
+    "start_date":"2026-02-20T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2092,
+    "manager_name":"Sanjeev Sharma",
+    "start_date":"2017-02-01T00:00:00.000",
+    "tenure_years":9.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2092,
+    "manager_name":"Ankit A. Pande",
+    "start_date":"2020-05-11T00:00:00.000",
+    "tenure_years":6.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2092,
+    "manager_name":"Sandeep Tandon",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2092,
+    "manager_name":"Ayusha Kumbhat",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2092,
+    "manager_name":"Varun Pattani",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2092,
+    "manager_name":"Sameer Kate",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2092,
+    "manager_name":"Yug Tibrewal",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2092,
+    "manager_name":"Jignesh Shah",
+    "start_date":"2026-02-20T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2249,
+    "manager_name":"Sanjeev Sharma",
+    "start_date":"2017-02-01T00:00:00.000",
+    "tenure_years":9.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2249,
+    "manager_name":"Ankit A. Pande",
+    "start_date":"2020-05-11T00:00:00.000",
+    "tenure_years":6.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2249,
+    "manager_name":"Varun Pattani",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2249,
+    "manager_name":"Sandeep Tandon",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2249,
+    "manager_name":"Ayusha Kumbhat",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2249,
+    "manager_name":"Sameer Kate",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2249,
+    "manager_name":"Yug Tibrewal",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2073,
+    "manager_name":"Sanjeev Sharma",
+    "start_date":"2017-02-01T00:00:00.000",
+    "tenure_years":9.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2073,
+    "manager_name":"Ankit A. Pande",
+    "start_date":"2020-05-11T00:00:00.000",
+    "tenure_years":6.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2073,
+    "manager_name":"Varun Pattani",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2073,
+    "manager_name":"Sandeep Tandon",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2073,
+    "manager_name":"Ayusha Kumbhat",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2073,
+    "manager_name":"Sameer Kate",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2073,
+    "manager_name":"Yug Tibrewal",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":1944,
+    "manager_name":"Ankit A. Pande",
+    "start_date":"2020-05-11T00:00:00.000",
+    "tenure_years":6.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":1944,
+    "manager_name":"Varun Pattani",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1944,
+    "manager_name":"Sanjeev Sharma",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1944,
+    "manager_name":"Sandeep Tandon",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1944,
+    "manager_name":"Ayusha Kumbhat",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1944,
+    "manager_name":"Sameer Kate",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":1944,
+    "manager_name":"Yug Tibrewal",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2178,
+    "manager_name":"Ankit A. Pande",
+    "start_date":"2020-11-05T00:00:00.000",
+    "tenure_years":5.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2178,
+    "manager_name":"Sanjeev Sharma",
+    "start_date":"2020-11-05T00:00:00.000",
+    "tenure_years":5.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2178,
+    "manager_name":"Ayusha Kumbhat",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2178,
+    "manager_name":"Sandeep Tandon",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2178,
+    "manager_name":"Varun Pattani",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2178,
+    "manager_name":"Sameer Kate",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2178,
+    "manager_name":"Yug Tibrewal",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2184,
+    "manager_name":"Sandeep Tandon",
+    "start_date":"2021-05-03T00:00:00.000",
+    "tenure_years":5.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2184,
+    "manager_name":"Ankit A. Pande",
+    "start_date":"2021-05-03T00:00:00.000",
+    "tenure_years":5.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2184,
+    "manager_name":"Sanjeev Sharma",
+    "start_date":"2021-05-03T00:00:00.000",
+    "tenure_years":5.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2184,
+    "manager_name":"Sameer Kate",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2184,
+    "manager_name":"Ayusha Kumbhat",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2184,
+    "manager_name":"Varun Pattani",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2184,
+    "manager_name":"Yug Tibrewal",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2274,
+    "manager_name":"Sandeep Tandon",
+    "start_date":"2021-12-01T00:00:00.000",
+    "tenure_years":4.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2274,
+    "manager_name":"Ankit A. Pande",
+    "start_date":"2021-12-01T00:00:00.000",
+    "tenure_years":4.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2274,
+    "manager_name":"Sanjeev Sharma",
+    "start_date":"2021-12-01T00:00:00.000",
+    "tenure_years":4.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2274,
+    "manager_name":"Ayusha Kumbhat",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2274,
+    "manager_name":"Varun Pattani",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2274,
+    "manager_name":"Sameer Kate",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2274,
+    "manager_name":"Yug Tibrewal",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2054,
+    "manager_name":"Sandeep Tandon",
+    "start_date":"2022-08-10T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":2054,
+    "manager_name":"Ankit A. Pande",
+    "start_date":"2022-08-10T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":2054,
+    "manager_name":"Sanjeev Sharma",
+    "start_date":"2022-08-10T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":2054,
+    "manager_name":"Ayusha Kumbhat",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2054,
+    "manager_name":"Varun Pattani",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2054,
+    "manager_name":"Sameer Kate",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2054,
+    "manager_name":"Yug Tibrewal",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2054,
+    "manager_name":"Jignesh Shah",
+    "start_date":"2026-02-20T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2175,
+    "manager_name":"Sandeep Tandon",
+    "start_date":"2023-05-31T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2175,
+    "manager_name":"Ankit A. Pande",
+    "start_date":"2023-05-31T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2175,
+    "manager_name":"Sanjeev Sharma",
+    "start_date":"2023-05-31T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2175,
+    "manager_name":"Ayusha Kumbhat",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2175,
+    "manager_name":"Varun Pattani",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2175,
+    "manager_name":"Sameer Kate",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2175,
+    "manager_name":"Yug Tibrewal",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2175,
+    "manager_name":"Jignesh Shah",
+    "start_date":"2026-02-20T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2174,
+    "manager_name":"Sandeep Tandon",
+    "start_date":"2023-06-21T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2174,
+    "manager_name":"Ankit A. Pande",
+    "start_date":"2023-06-21T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2174,
+    "manager_name":"Sanjeev Sharma",
+    "start_date":"2023-06-21T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2174,
+    "manager_name":"Ayusha Kumbhat",
+    "start_date":"2025-02-03T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2174,
+    "manager_name":"Varun Pattani",
+    "start_date":"2025-02-19T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2174,
+    "manager_name":"Sameer Kate",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2174,
+    "manager_name":"Yug Tibrewal",
+    "start_date":"2025-03-06T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4417,
+    "manager_name":"George Thomas",
+    "start_date":"2022-04-01T00:00:00.000",
+    "tenure_years":4.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4417,
+    "manager_name":"Christy Mathai",
+    "start_date":"2022-11-23T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4417,
+    "manager_name":"Ketan Gujarathi",
+    "start_date":"2025-02-01T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":5213,
+    "manager_name":"George Thomas",
+    "start_date":"2022-04-01T00:00:00.000",
+    "tenure_years":4.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":5213,
+    "manager_name":"Christy Mathai",
+    "start_date":"2022-11-23T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":5000,
+    "manager_name":"Chirag Mehta",
+    "start_date":"2019-07-12T00:00:00.000",
+    "tenure_years":7.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":5000,
+    "manager_name":"Rajorshi Palit",
+    "start_date":"2024-11-04T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":1973,
+    "manager_name":"Nirali Bhansali",
+    "start_date":"2022-02-04T00:00:00.000",
+    "tenure_years":4.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1973,
+    "manager_name":"Dhawal Dhanani",
+    "start_date":"2022-02-04T00:00:00.000",
+    "tenure_years":4.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":1973,
+    "manager_name":"Umeshkumar Mehta",
+    "start_date":"2023-08-01T00:00:00.000",
+    "tenure_years":2.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":1945,
+    "manager_name":"Nirali Bhansali",
+    "start_date":"2022-12-29T00:00:00.000",
+    "tenure_years":3.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":1945,
+    "manager_name":"Umeshkumar Mehta",
+    "start_date":"2023-08-01T00:00:00.000",
+    "tenure_years":2.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":1945,
+    "manager_name":"Dhawal Dhanani",
+    "start_date":"2025-02-18T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":5023,
+    "manager_name":"Rohit Shimpi",
+    "start_date":"2022-01-01T00:00:00.000",
+    "tenure_years":4.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4420,
+    "manager_name":"Milind Agrawal",
+    "start_date":"2026-01-01T00:00:00.000",
+    "tenure_years":0.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":5170,
+    "manager_name":"R. Srinivasan",
+    "start_date":"2013-11-16T00:00:00.000",
+    "tenure_years":12.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":5037,
+    "manager_name":"Rohit Shimpi",
+    "start_date":"2024-06-01T00:00:00.000",
+    "tenure_years":2.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":5010,
+    "manager_name":"Dinesh Balachandran",
+    "start_date":"2024-06-01T00:00:00.000",
+    "tenure_years":2.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4352,
+    "manager_name":"Dinesh Balachandran",
+    "start_date":"2018-05-07T00:00:00.000",
+    "tenure_years":8.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4352,
+    "manager_name":"Pradeep Kesavan",
+    "start_date":"2023-12-01T00:00:00.000",
+    "tenure_years":2.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4534,
+    "manager_name":"R. Srinivasan",
+    "start_date":"2009-05-01T00:00:00.000",
+    "tenure_years":17.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":5013,
+    "manager_name":"Ashit Desai",
+    "start_date":"2024-04-01T00:00:00.000",
+    "tenure_years":2.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":5013,
+    "manager_name":"Pradeep Kesavan",
+    "start_date":"2024-04-01T00:00:00.000",
+    "tenure_years":2.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4702,
+    "manager_name":"Bhavin Vithlani",
+    "start_date":"2024-04-01T00:00:00.000",
+    "tenure_years":2.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":5007,
+    "manager_name":"Milind Agrawal",
+    "start_date":"2019-08-01T00:00:00.000",
+    "tenure_years":6.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":5007,
+    "manager_name":"Pradeep Kesavan",
+    "start_date":"2023-12-01T00:00:00.000",
+    "tenure_years":2.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":5019,
+    "manager_name":"Sukanya Ghosh",
+    "start_date":"2026-03-01T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4745,
+    "manager_name":"Ruchit Mehta",
+    "start_date":"2026-06-01T00:00:00.000",
+    "tenure_years":0.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4362,
+    "manager_name":"Nidhi Chawla",
+    "start_date":"2026-01-01T00:00:00.000",
+    "tenure_years":0.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4484,
+    "manager_name":"Prateek Nigudkar",
+    "start_date":"2025-08-07T00:00:00.000",
+    "tenure_years":0.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4484,
+    "manager_name":"Hitesh Savanth",
+    "start_date":"2026-06-15T00:00:00.000",
+    "tenure_years":0.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4422,
+    "manager_name":"Prateek Nigudkar",
+    "start_date":"2025-08-07T00:00:00.000",
+    "tenure_years":0.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4422,
+    "manager_name":"Hitesh Savanth",
+    "start_date":"2026-06-15T00:00:00.000",
+    "tenure_years":0.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4705,
+    "manager_name":"S. Bharath",
+    "start_date":"2021-02-24T00:00:00.000",
+    "tenure_years":5.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4705,
+    "manager_name":"Shalav Saket",
+    "start_date":"2025-12-31T00:00:00.000",
+    "tenure_years":0.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4365,
+    "manager_name":"Siddarth Mohta",
+    "start_date":"2026-01-21T00:00:00.000",
+    "tenure_years":0.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4365,
+    "manager_name":"Shalav Saket",
+    "start_date":"2026-02-28T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4536,
+    "manager_name":"Ashwin Jain",
+    "start_date":"2024-10-21T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":4536,
+    "manager_name":"Shalav Saket",
+    "start_date":"2026-02-28T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4424,
+    "manager_name":"Rohit Seksaria",
+    "start_date":"2022-01-01T00:00:00.000",
+    "tenure_years":4.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4424,
+    "manager_name":"Bharath Subramanian",
+    "start_date":"2025-06-02T00:00:00.000",
+    "tenure_years":1.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4424,
+    "manager_name":"Shalav Saket",
+    "start_date":"2026-02-28T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":5060,
+    "manager_name":"Siddarth Mohta",
+    "start_date":"2026-01-21T00:00:00.000",
+    "tenure_years":0.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":5060,
+    "manager_name":"Shalav Saket",
+    "start_date":"2026-02-28T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":5214,
+    "manager_name":"Shalav Saket",
+    "start_date":"2026-03-20T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":5214,
+    "manager_name":"Sandeep Agarwal",
+    "start_date":"2026-05-11T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":5214,
+    "manager_name":"S. Bharath",
+    "start_date":"2026-05-11T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":5214,
+    "manager_name":"Siddarth Mohta",
+    "start_date":"2026-05-11T00:00:00.000",
+    "tenure_years":0.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":5064,
+    "manager_name":"Rohit Seksaria",
+    "start_date":"2018-09-21T00:00:00.000",
+    "tenure_years":7.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":5064,
+    "manager_name":"Shalav Saket",
+    "start_date":"2026-03-20T00:00:00.000",
+    "tenure_years":0.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4485,
+    "manager_name":"S. Bharath",
+    "start_date":"2024-07-01T00:00:00.000",
+    "tenure_years":2.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":4485,
+    "manager_name":"Shalav Saket",
+    "start_date":"2026-02-28T00:00:00.000",
+    "tenure_years":0.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":4485,
+    "manager_name":"Sandeep Agarwal",
+    "start_date":"2026-06-09T00:00:00.000",
+    "tenure_years":0.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2075,
+    "manager_name":"Satish Mishra",
+    "start_date":"2021-03-09T00:00:00.000",
+    "tenure_years":5.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2024,
+    "manager_name":"Chandraprakash Padiyar",
+    "start_date":"2018-09-03T00:00:00.000",
+    "tenure_years":7.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2024,
+    "manager_name":"Kapil Malhotra",
+    "start_date":"2025-07-01T00:00:00.000",
+    "tenure_years":1.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":2214,
+    "manager_name":"Abhinav Sharma",
+    "start_date":"2021-03-09T00:00:00.000",
+    "tenure_years":5.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2192,
+    "manager_name":"Kapil Malhotra",
+    "start_date":"2025-10-31T00:00:00.000",
+    "tenure_years":0.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2198,
+    "manager_name":"Meeta Shetty",
+    "start_date":"2021-03-09T00:00:00.000",
+    "tenure_years":5.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2198,
+    "manager_name":"Hasmukh Vishariya",
+    "start_date":"2025-03-01T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2221,
+    "manager_name":"Satish Mishra",
+    "start_date":"2021-03-09T00:00:00.000",
+    "tenure_years":5.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2207,
+    "manager_name":"Sonam Udasi",
+    "start_date":"2016-04-01T00:00:00.000",
+    "tenure_years":10.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2207,
+    "manager_name":"Aditya Bagul",
+    "start_date":"2023-10-03T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2213,
+    "manager_name":"Rajat Srivastava",
+    "start_date":"2024-09-16T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2253,
+    "manager_name":"Chandraprakash Padiyar",
+    "start_date":"2018-11-13T00:00:00.000",
+    "tenure_years":7.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2253,
+    "manager_name":"Jeetendra Khatri",
+    "start_date":"2023-10-03T00:00:00.000",
+    "tenure_years":2.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2000,
+    "manager_name":"Hasmukh Vishariya",
+    "start_date":"2025-03-01T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2000,
+    "manager_name":"Anand Sharma",
+    "start_date":"2025-10-03T00:00:00.000",
+    "tenure_years":0.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":1927,
+    "manager_name":"Sailesh Jain",
+    "start_date":"2021-05-20T00:00:00.000",
+    "tenure_years":5.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":1927,
+    "manager_name":"Murthy Nagarajan",
+    "start_date":"2021-05-20T00:00:00.000",
+    "tenure_years":5.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":1927,
+    "manager_name":"Hasmukh Vishariya",
+    "start_date":"2025-03-01T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2193,
+    "manager_name":"Rahul Singh",
+    "start_date":"2021-08-04T00:00:00.000",
+    "tenure_years":4.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":2193,
+    "manager_name":"Murthy Nagarajan",
+    "start_date":"2021-08-04T00:00:00.000",
+    "tenure_years":4.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":2193,
+    "manager_name":"Sailesh Jain",
+    "start_date":"2021-12-16T00:00:00.000",
+    "tenure_years":4.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2193,
+    "manager_name":"Hasmukh Vishariya",
+    "start_date":"2025-03-01T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2202,
+    "manager_name":"Murthy Nagarajan",
+    "start_date":"2022-09-02T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":2202,
+    "manager_name":"Hasmukh Vishariya",
+    "start_date":"2025-03-01T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2202,
+    "manager_name":"Aditya Bagul",
+    "start_date":"2025-07-01T00:00:00.000",
+    "tenure_years":1.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":2202,
+    "manager_name":"Kapil Malhotra",
+    "start_date":"2025-07-01T00:00:00.000",
+    "tenure_years":1.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":2094,
+    "manager_name":"Murthy Nagarajan",
+    "start_date":"2023-02-02T00:00:00.000",
+    "tenure_years":3.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2094,
+    "manager_name":"Meeta Shetty",
+    "start_date":"2025-01-27T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":2094,
+    "manager_name":"Hasmukh Vishariya",
+    "start_date":"2025-03-01T00:00:00.000",
+    "tenure_years":1.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":5103,
+    "manager_name":"Anuj Kapil",
+    "start_date":"2023-06-13T00:00:00.000",
+    "tenure_years":3.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":1982,
+    "manager_name":"Sanjay Bembalkar",
+    "start_date":"2023-01-25T00:00:00.000",
+    "tenure_years":3.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":1982,
+    "manager_name":"Vinod Malviya",
+    "start_date":"2024-11-01T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":1949,
+    "manager_name":"Sanjay Bembalkar",
+    "start_date":"2021-06-07T00:00:00.000",
+    "tenure_years":5.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":1949,
+    "manager_name":"Vinod Malviya",
+    "start_date":"2024-11-01T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2258,
+    "manager_name":"Gaurav Chopra",
+    "start_date":"2024-11-01T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2258,
+    "manager_name":"Pratik Dharmshi",
+    "start_date":"2024-12-09T00:00:00.000",
+    "tenure_years":1.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2059,
+    "manager_name":"Sanjay Bembalkar",
+    "start_date":"2021-06-07T00:00:00.000",
+    "tenure_years":5.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":2059,
+    "manager_name":"Pratik Dharmshi",
+    "start_date":"2025-07-01T00:00:00.000",
+    "tenure_years":1.0,
+    "is_current":true
+  },
+  {
+    "scheme_id":2280,
+    "manager_name":"Vinod Malviya",
+    "start_date":"2024-11-01T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2280,
+    "manager_name":"Gaurav Chopra",
+    "start_date":"2024-11-01T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2001,
+    "manager_name":"Vinod Malviya",
+    "start_date":"2024-11-01T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2001,
+    "manager_name":"Pratik Dharmshi",
+    "start_date":"2024-12-09T00:00:00.000",
+    "tenure_years":1.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2029,
+    "manager_name":"Vinod Malviya",
+    "start_date":"2024-05-02T00:00:00.000",
+    "tenure_years":2.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":2029,
+    "manager_name":"Pratik Dharmshi",
+    "start_date":"2024-12-09T00:00:00.000",
+    "tenure_years":1.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2077,
+    "manager_name":"Gaurav Chopra",
+    "start_date":"2023-01-25T00:00:00.000",
+    "tenure_years":3.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":2077,
+    "manager_name":"Pratik Dharmshi",
+    "start_date":"2024-12-09T00:00:00.000",
+    "tenure_years":1.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2096,
+    "manager_name":"Sanjay Bembalkar",
+    "start_date":"2022-12-19T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2096,
+    "manager_name":"Harshad Patwardhan",
+    "start_date":"2024-11-01T00:00:00.000",
+    "tenure_years":1.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":5120,
+    "manager_name":"Vicky Punjabi",
+    "start_date":"2025-06-16T00:00:00.000",
+    "tenure_years":1.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":5118,
+    "manager_name":"Amit Premchandani",
+    "start_date":"2025-06-16T00:00:00.000",
+    "tenure_years":1.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":5118,
+    "manager_name":"Bhavesh Kanani",
+    "start_date":"2026-01-12T00:00:00.000",
+    "tenure_years":0.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4370,
+    "manager_name":"Amit Premchandani",
+    "start_date":"2022-11-16T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":4498,
+    "manager_name":"Ajay Tyagi",
+    "start_date":"2016-01-11T00:00:00.000",
+    "tenure_years":10.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4498,
+    "manager_name":"Kamal Gada",
+    "start_date":"2025-04-08T00:00:00.000",
+    "tenure_years":1.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":4498,
+    "manager_name":"Akash Shah",
+    "start_date":"2026-01-12T00:00:00.000",
+    "tenure_years":0.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":4433,
+    "manager_name":"Amit Premchandani",
+    "start_date":"2025-06-16T00:00:00.000",
+    "tenure_years":1.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":5121,
+    "manager_name":"Deepesh Agarwal",
+    "start_date":"2025-06-16T00:00:00.000",
+    "tenure_years":1.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":4667,
+    "manager_name":"Karthikraj Lakshmanan",
+    "start_date":"2022-09-01T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":4714,
+    "manager_name":"Vishal Chopda",
+    "start_date":"2025-06-16T00:00:00.000",
+    "tenure_years":1.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":5122,
+    "manager_name":"Karthikraj Lakshmanan",
+    "start_date":"2022-11-16T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":5223,
+    "manager_name":"Amit Premchandani",
+    "start_date":"2018-02-01T00:00:00.000",
+    "tenure_years":8.4,
+    "is_current":true
+  },
+  {
+    "scheme_id":5119,
+    "manager_name":"Kamal Gada",
+    "start_date":"2022-05-02T00:00:00.000",
+    "tenure_years":4.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":4600,
+    "manager_name":"V Srivatsa",
+    "start_date":"2017-05-17T00:00:00.000",
+    "tenure_years":9.1,
+    "is_current":true
+  },
+  {
+    "scheme_id":5123,
+    "manager_name":"Sachin Trivedi",
+    "start_date":"2016-09-22T00:00:00.000",
+    "tenure_years":9.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":5184,
+    "manager_name":"Nitin Jain",
+    "start_date":"2024-10-01T00:00:00.000",
+    "tenure_years":1.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":4545,
+    "manager_name":"Vishal Chopda",
+    "start_date":"2022-05-02T00:00:00.000",
+    "tenure_years":4.2,
+    "is_current":true
+  },
+  {
+    "scheme_id":1983,
+    "manager_name":"Ramesh Mantri",
+    "start_date":"2022-08-02T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":1983,
+    "manager_name":"Piyush Baranwal",
+    "start_date":"2022-08-02T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":1983,
+    "manager_name":"Trupti Agrawal",
+    "start_date":"2022-08-11T00:00:00.000",
+    "tenure_years":3.9,
+    "is_current":true
+  },
+  {
+    "scheme_id":1983,
+    "manager_name":"Dheeresh Pathak",
+    "start_date":"2024-04-01T00:00:00.000",
+    "tenure_years":2.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":1983,
+    "manager_name":"Ashish Agrawal",
+    "start_date":"2025-01-06T00:00:00.000",
+    "tenure_years":1.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":2078,
+    "manager_name":"Ramesh Mantri",
+    "start_date":"2022-09-08T00:00:00.000",
+    "tenure_years":3.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2078,
+    "manager_name":"Piyush Baranwal",
+    "start_date":"2022-09-08T00:00:00.000",
+    "tenure_years":3.8,
+    "is_current":true
+  },
+  {
+    "scheme_id":2078,
+    "manager_name":"Trupti Agrawal",
+    "start_date":"2022-10-31T00:00:00.000",
+    "tenure_years":3.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":2078,
+    "manager_name":"Dheeresh Pathak",
+    "start_date":"2024-04-01T00:00:00.000",
+    "tenure_years":2.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2078,
+    "manager_name":"Ashish Agrawal",
+    "start_date":"2025-01-06T00:00:00.000",
+    "tenure_years":1.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":1950,
+    "manager_name":"Ramesh Mantri",
+    "start_date":"2022-10-14T00:00:00.000",
+    "tenure_years":3.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":1950,
+    "manager_name":"Trupti Agrawal",
+    "start_date":"2022-10-14T00:00:00.000",
+    "tenure_years":3.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":1950,
+    "manager_name":"Piyush Baranwal",
+    "start_date":"2022-10-14T00:00:00.000",
+    "tenure_years":3.7,
+    "is_current":true
+  },
+  {
+    "scheme_id":1950,
+    "manager_name":"Dheeresh Pathak",
+    "start_date":"2024-04-01T00:00:00.000",
+    "tenure_years":2.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":1950,
+    "manager_name":"Ashish Agrawal",
+    "start_date":"2025-01-06T00:00:00.000",
+    "tenure_years":1.5,
+    "is_current":true
+  },
+  {
+    "scheme_id":2060,
+    "manager_name":"Ramesh Mantri",
+    "start_date":"2022-12-01T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2060,
+    "manager_name":"Trupti Agrawal",
+    "start_date":"2022-12-01T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2060,
+    "manager_name":"Piyush Baranwal",
+    "start_date":"2022-12-01T00:00:00.000",
+    "tenure_years":3.6,
+    "is_current":true
+  },
+  {
+    "scheme_id":2060,
+    "manager_name":"Dheeresh Pathak",
+    "start_date":"2024-04-01T00:00:00.000",
+    "tenure_years":2.3,
+    "is_current":true
+  },
+  {
+    "scheme_id":2060,
+    "manager_name":"Ashish Agrawal",
+    "start_date":"2025-01-06T00:00:00.000",
+    "tenure_years":1.5,
+    "is_current":true
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "metric":"edge_gross_pct",
+    "value":"2.37",
+    "unit":"% \/ yr",
+    "label":"Gross edge vs a category-matched benchmark",
+    "group":"performance"
+  },
+  {
+    "metric":"edge_net_pct",
+    "value":"2.6",
+    "unit":"% \/ yr",
+    "label":"After-tax edge (12.5% LTCG, 1\u20132 yr hold)",
+    "group":"performance"
+  },
+  {
+    "metric":"cohorts_positive",
+    "value":"7 \/ 7",
+    "unit":"",
+    "label":"Back-test years the strategy beat its benchmark (2016\u20132022)",
+    "group":"performance"
+  },
+  {
+    "metric":"rank_ic",
+    "value":"0.096",
+    "unit":"",
+    "label":"Out-of-sample information coefficient (ranking skill)",
+    "group":"significance"
+  },
+  {
+    "metric":"newey_west_t",
+    "value":"3.30",
+    "unit":"",
+    "label":"Alpha t-stat after overlapping-window correction",
+    "group":"significance"
+  },
+  {
+    "metric":"p_value",
+    "value":"0.001",
+    "unit":"",
+    "label":"Probability the edge is luck (\u22481-in-1000)",
+    "group":"significance"
+  },
+  {
+    "metric":"negative_control",
+    "value":"PASS",
+    "unit":"",
+    "label":"Fake-data sanity check (the original version FAILED this)",
+    "group":"significance"
+  },
+  {
+    "metric":"portfolio_size",
+    "value":"10",
+    "unit":"funds",
+    "label":"Top-2 per core category (Large, Mid, Small, Flexi, ELSS)",
+    "group":"product"
+  },
+  {
+    "metric":"live_universe",
+    "value":"381",
+    "unit":"funds",
+    "label":"Funds rated in the current live list (as-of 2025-12-31)",
+    "group":"product"
+  },
+  {
+    "metric":"validation_universe",
+    "value":"275",
+    "unit":"funds",
+    "label":"Funds in the gradable validation snapshot (2022-12-31)",
+    "group":"product"
+  },
+  {
+    "metric":"min_hold_months",
+    "value":"12",
+    "unit":"months",
+    "label":"Minimum hold \u2014 secures 12.5% LTCG, avoids exit loads",
+    "group":"product"
+  }
+]

@@ -1,0 +1,58 @@
+# ─────────────────────────────────────────────────────────────
+# Secrets — NEVER commit (the pattern is recursive: matches any dir)
+# .env.example templates are NOT matched by these and stay tracked.
+# ─────────────────────────────────────────────────────────────
+.env
+*.env
+
+# ─────────────────────────────────────────────────────────────
+# Python
+# ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+ENV/
+
+# ─────────────────────────────────────────────────────────────
+# Node / web (regenerable: npm|bun install && build)
+# ─────────────────────────────────────────────────────────────
+node_modules/
+website/india-mutual-funds-hub/node_modules/
+website/india-mutual-funds-hub/dist/
+website/india-mutual-funds-hub/.output/
+website/india-mutual-funds-hub/.netlify/
+website/india-mutual-funds-hub/.wrangler/
+website/india-mutual-funds-hub/.tanstack/
+
+# ─────────────────────────────────────────────────────────────
+# Runtime state / generated logs
+# ─────────────────────────────────────────────────────────────
+paper_trading/logs/
+*.log
+
+# ─────────────────────────────────────────────────────────────
+# OS / editor junk
+# ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.idea/
+
+# ─────────────────────────────────────────────────────────────
+# Data-engineering pipeline: scrapers, parsers, grabber, Morningstar,
+# the DB build layer, rupeevest (proprietary), omnimodel, and ~9.9 GB of
+# raw scraped data. Kept locally as a self-contained record of HOW the DB
+# was built, but NOT committed (too heavy; the ML analysis only needs
+# data/ml_dataset.csv). Only the README breadcrumb is tracked.
+# ─────────────────────────────────────────────────────────────
+data_pipeline/*
+!data_pipeline/README.md
