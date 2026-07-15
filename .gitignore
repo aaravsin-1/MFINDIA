@@ -56,3 +56,6 @@ desktop.ini
 # ─────────────────────────────────────────────────────────────
 data_pipeline/*
 !data_pipeline/README.md
+
+paper_trading/paper_trading.db
+
