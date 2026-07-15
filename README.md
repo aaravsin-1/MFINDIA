@@ -14,8 +14,8 @@ This file is the map of the folder. For how to *run* things, see **[README.md](d
 
 ```
 RESULTS_PROJECT/
-├── INDEX.md                  ← you are here (start map)
-├── Fund_Selection_Deck.pptx  ← presentation deck
+├── README.md                 ← you are here (start map)
+├── Using Machine Learning to Assist Fund Selection - Aarav Singhal.pdf  ← the full report
 ├── docs/                     ← all write-ups (report, findings, validation catalog, …)
 ├── src/                      ← core code: pipeline, model, scoring, figure generators, lib.py
 ├── validation/               ← the QA suite that PROVES the edge (red-team, negative control, factor test, …)
@@ -43,7 +43,7 @@ regardless of the current directory. DB-backed scripts need a `.env` (copy `.env
 | [PROJECT_REPORT_1PAGE.md](docs/PROJECT_REPORT_1PAGE.md) | One-page version of the above. |
 | [STRATEGY_AND_RESULTS.md](docs/STRATEGY_AND_RESULTS.md) | Full detail of the strategy and every result. |
 | [VALIDATION_CATALOG.md](docs/VALIDATION_CATALOG.md) | Index of every validation/experiment run, with pass/fail. |
-| **[Fund_Selection_Deck.pptx](Fund_Selection_Deck.pptx)** | 16-slide presentation deck (figures + speaker notes). |
+| **[Using Machine Learning to Assist Fund Selection - Aarav Singhal.pdf](Using%20Machine%20Learning%20to%20Assist%20Fund%20Selection%20-%20Aarav%20Singhal.pdf)** | The full written report (PDF). |
 
 ## 2. Deliverables (the actual products)
 
@@ -80,7 +80,6 @@ regardless of the current directory. DB-backed scripts need a `.env` (copy `.env
 | File | Role |
 |---|---|
 | [make_report_figures.py](src/make_report_figures.py) | Regenerates all report figures from the real data/model. |
-| [build_deck.py](src/build_deck.py) | Rebuilds `Fund_Selection_Deck.pptx` from the figures. |
 | `assets/` | The 11 generated figures (input table, decision tree, importance, IC, mean-reversion, per-cohort alpha, etc.). |
 
 ## 6. Data & models
@@ -106,5 +105,5 @@ regardless of the current directory. DB-backed scripts need a `.env` (copy `.env
   `.env` and fill in your own DB/Supabase credentials to run the DB-backed scripts.
 - **Reproducibility:** the analysis (`ml_dataset.csv` + `model.pkl`) is self-contained; scripts that
   hit the live database (`prepare_features.py`, `score_live.py`, the validators) need the `amfi_data`
-  Postgres DB. All figures and the deck regenerate offline from the CSV/model.
+  Postgres DB. All figures regenerate offline from the CSV/model.
 - **Requirements:** Python 3.12 — see [README.md](docs/README.md) for the package list.

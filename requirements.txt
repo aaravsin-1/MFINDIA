@@ -22,8 +22,7 @@ SQLAlchemy==2.0.51
 psycopg2-binary==2.9.12
 python-dotenv==1.2.2
 
-# ── Figures, deck & reporting ──
+# ── Figures & reporting ──
 matplotlib==3.11.0
-python-pptx==1.0.2
 graphviz==0.21          # also needs the Graphviz system binary `dot` on PATH (for the decision-tree figure)
 Pillow==12.2.0
