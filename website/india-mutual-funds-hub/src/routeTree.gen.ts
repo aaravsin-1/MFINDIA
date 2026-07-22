@@ -10,15 +10,23 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as WizardRouteImport } from './routes/wizard'
+import { Route as OptimiseRouteImport } from './routes/optimise'
 import { Route as HowWeTestedRouteImport } from './routes/how-we-tested'
 import { Route as HowItWorksRouteImport } from './routes/how-it-works'
+import { Route as FindMyPortfolioRouteImport } from './routes/find-my-portfolio'
 import { Route as BrowseRouteImport } from './routes/browse'
+import { Route as BacktestRouteImport } from './routes/backtest'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as FundSchemeIdRouteImport } from './routes/fund.$schemeId'
 
 const WizardRoute = WizardRouteImport.update({
   id: '/wizard',
   path: '/wizard',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const OptimiseRoute = OptimiseRouteImport.update({
+  id: '/optimise',
+  path: '/optimise',
   getParentRoute: () => rootRouteImport,
 } as any)
 const HowWeTestedRoute = HowWeTestedRouteImport.update({
@@ -31,9 +39,19 @@ const HowItWorksRoute = HowItWorksRouteImport.update({
   path: '/how-it-works',
   getParentRoute: () => rootRouteImport,
 } as any)
+const FindMyPortfolioRoute = FindMyPortfolioRouteImport.update({
+  id: '/find-my-portfolio',
+  path: '/find-my-portfolio',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const BrowseRoute = BrowseRouteImport.update({
   id: '/browse',
   path: '/browse',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const BacktestRoute = BacktestRouteImport.update({
+  id: '/backtest',
+  path: '/backtest',
   getParentRoute: () => rootRouteImport,
 } as any)
 const IndexRoute = IndexRouteImport.update({
@@ -49,26 +67,35 @@ const FundSchemeIdRoute = FundSchemeIdRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/backtest': typeof BacktestRoute
   '/browse': typeof BrowseRoute
+  '/find-my-portfolio': typeof FindMyPortfolioRoute
   '/how-it-works': typeof HowItWorksRoute
   '/how-we-tested': typeof HowWeTestedRoute
+  '/optimise': typeof OptimiseRoute
   '/wizard': typeof WizardRoute
   '/fund/$schemeId': typeof FundSchemeIdRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/backtest': typeof BacktestRoute
   '/browse': typeof BrowseRoute
+  '/find-my-portfolio': typeof FindMyPortfolioRoute
   '/how-it-works': typeof HowItWorksRoute
   '/how-we-tested': typeof HowWeTestedRoute
+  '/optimise': typeof OptimiseRoute
   '/wizard': typeof WizardRoute
   '/fund/$schemeId': typeof FundSchemeIdRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/backtest': typeof BacktestRoute
   '/browse': typeof BrowseRoute
+  '/find-my-portfolio': typeof FindMyPortfolioRoute
   '/how-it-works': typeof HowItWorksRoute
   '/how-we-tested': typeof HowWeTestedRoute
+  '/optimise': typeof OptimiseRoute
   '/wizard': typeof WizardRoute
   '/fund/$schemeId': typeof FundSchemeIdRoute
 }
@@ -76,34 +103,46 @@ export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
+    | '/backtest'
     | '/browse'
+    | '/find-my-portfolio'
     | '/how-it-works'
     | '/how-we-tested'
+    | '/optimise'
     | '/wizard'
     | '/fund/$schemeId'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
+    | '/backtest'
     | '/browse'
+    | '/find-my-portfolio'
     | '/how-it-works'
     | '/how-we-tested'
+    | '/optimise'
     | '/wizard'
     | '/fund/$schemeId'
   id:
     | '__root__'
     | '/'
+    | '/backtest'
     | '/browse'
+    | '/find-my-portfolio'
     | '/how-it-works'
     | '/how-we-tested'
+    | '/optimise'
     | '/wizard'
     | '/fund/$schemeId'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  BacktestRoute: typeof BacktestRoute
   BrowseRoute: typeof BrowseRoute
+  FindMyPortfolioRoute: typeof FindMyPortfolioRoute
   HowItWorksRoute: typeof HowItWorksRoute
   HowWeTestedRoute: typeof HowWeTestedRoute
+  OptimiseRoute: typeof OptimiseRoute
   WizardRoute: typeof WizardRoute
   FundSchemeIdRoute: typeof FundSchemeIdRoute
 }
@@ -115,6 +154,13 @@ declare module '@tanstack/react-router' {
       path: '/wizard'
       fullPath: '/wizard'
       preLoaderRoute: typeof WizardRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/optimise': {
+      id: '/optimise'
+      path: '/optimise'
+      fullPath: '/optimise'
+      preLoaderRoute: typeof OptimiseRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/how-we-tested': {
@@ -131,11 +177,25 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof HowItWorksRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/find-my-portfolio': {
+      id: '/find-my-portfolio'
+      path: '/find-my-portfolio'
+      fullPath: '/find-my-portfolio'
+      preLoaderRoute: typeof FindMyPortfolioRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/browse': {
       id: '/browse'
       path: '/browse'
       fullPath: '/browse'
       preLoaderRoute: typeof BrowseRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/backtest': {
+      id: '/backtest'
+      path: '/backtest'
+      fullPath: '/backtest'
+      preLoaderRoute: typeof BacktestRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/': {
@@ -157,9 +217,12 @@ declare module '@tanstack/react-router' {
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  BacktestRoute: BacktestRoute,
   BrowseRoute: BrowseRoute,
+  FindMyPortfolioRoute: FindMyPortfolioRoute,
   HowItWorksRoute: HowItWorksRoute,
   HowWeTestedRoute: HowWeTestedRoute,
+  OptimiseRoute: OptimiseRoute,
   WizardRoute: WizardRoute,
   FundSchemeIdRoute: FundSchemeIdRoute,
 }

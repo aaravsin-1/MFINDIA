@@ -2,8 +2,10 @@ import { Link, useRouterState } from "@tanstack/react-router";
 
 const nav = [
   { to: "/", label: "Overview" },
+  { to: "/find-my-portfolio", label: "Find my portfolio" },
   { to: "/wizard", label: "Screener" },
   { to: "/browse", label: "Universe" },
+  { to: "/optimise", label: "Optimiser" },
   { to: "/how-it-works", label: "Method" },
   { to: "/how-we-tested", label: "Validation" },
 ] as const;
@@ -48,12 +50,12 @@ export function SiteHeader() {
         </nav>
 
         <div className="hidden sm:flex items-center gap-3">
-          <a
-            href="mailto:aaravsinghal2005@gmail.com"
+          <button
+            onClick={() => alert("You can reach me at: aaravsinghal2005@gmail.com")}
             className="font-mono text-[10px] text-muted-foreground tracking-[0.2em] uppercase hover:text-brand transition-colors"
           >
             → contact
-          </a>
+          </button>
         </div>
       </div>
     </header>

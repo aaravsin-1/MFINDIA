@@ -2,6 +2,7 @@ import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { supabase } from "@/integrations/supabase/client";
 import { Section, Card } from "@/components/ui-bits";
+import { usePortfolio } from "@/lib/portfolio";
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer } from "recharts";
 
 const sb = supabase as any;
@@ -26,6 +27,8 @@ export const Route = createFileRoute("/fund/$schemeId")({
 function FundDetail() {
   const { schemeId } = Route.useParams();
   const sid = Number(schemeId);
+  const { has, add, remove } = usePortfolio();
+  const held = has(sid);
 
   const detail = useQuery({
     queryKey: ["fund_detail", sid],
@@ -70,7 +73,15 @@ function FundDetail() {
       <Link to="/browse" className="tag mb-4 inline-block hover:text-foreground">← Browse</Link>
       <div className="flex items-start justify-between gap-4 flex-wrap mb-2">
         <h1 className="font-display text-3xl md:text-5xl leading-tight max-w-3xl">{d.fund_name}</h1>
-        {d.recommended && <span className="tag !text-brand !border-brand">▪ TOP-RANKED IN CATEGORY</span>}
+        <div className="flex items-center gap-2 shrink-0">
+          {d.recommended && <span className="tag !text-brand !border-brand">▪ TOP-RANKED IN CATEGORY</span>}
+          <button
+            onClick={() => (held ? remove(sid) : add(sid, 10000))}
+            className={`tag transition-colors ${held ? "!text-good !border-good" : "hover:!border-brand hover:!text-brand"}`}
+          >
+            {held ? "✓ In portfolio" : "＋ Add to portfolio"}
+          </button>
+        </div>
       </div>
       <div className="flex flex-wrap gap-2 mb-8">
         {d.amc && <span className="tag">{d.amc}</span>}
